@@ -1,2 +1,3 @@
-# Batch-3-Automated-Data-Cleaning-Pipeline
-Automated Data Cleaning Pipeline - Data Science Project
+# Batch-3-Interactive-EDA-Dashboard
+
+Interactive EDA Dashboard - Data Science Project
