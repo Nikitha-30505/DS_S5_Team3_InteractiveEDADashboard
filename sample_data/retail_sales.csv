@@ -1,0 +1,1509 @@
+order_id,order_date,region,category,customer_segment,units_sold,unit_price,discount_pct,revenue,shipping_days,rating,returned
+ORD-10000,2025-01-24,North,Clothing,Small Business,3,43.59,0.0,130.77,3,4.0,No
+ORD-10001,2025-03-15,East,Groceries,Small Business,5,10.61,5.0,50.41,6,3.0,No
+ORD-10002,2025-09-15,North,Clothing,Consumer,4,40.54,0.0,162.17,8,3.0,No
+ORD-10003,2025-12-27,North,Clothing,Consumer,6,55.28,,331.67,4,4.0,No
+ORD-10004,2025-11-28,West,Electronics,Small Business,5,202.88,10.0,912.98,5,4.0,No
+ORD-10005,2025-08-19,East,Sports,Consumer,2,29.91,0.0,59.82,4,5.0,No
+ORD-10006,2025-02-09,North,Clothing,Consumer,3,28.63,5.0,81.61,7,4.0,No
+ORD-10007,2025-12-19,West,Groceries,Consumer,1,7.5,0.0,7.5,4,3.0,No
+ORD-10008,2025-04-27,North,Sports,Corporate,3,66.07,5.0,188.3,3,5.0,No
+ORD-10009,2025-01-16,South,Groceries,Small Business,3,16.62,0.0,49.85,5,2.0,No
+ORD-10010,2025-10-08,West,Electronics,Corporate,2,400.88,20.0,641.41,4,3.0,No
+ORD-10011,2025-03-05,East,Groceries,Consumer,1,6.77,5.0,6.43,6,3.0,No
+ORD-10012,2025-04-21,East,Clothing,Corporate,5,55.91,15.0,237.62,5,4.0,No
+ORD-10013,2025-09-05,West,Furniture,Corporate,3,145.14,5.0,413.64,7,5.0,No
+ORD-10014,2025-12-19,East,Electronics,Consumer,4,667.71,0.0,2670.83,5,4.0,No
+ORD-10015,2025-11-28,Central,Groceries,Corporate,6,19.48,10.0,105.17,6,3.0,No
+ORD-10016,2025-03-01,East,Groceries,Corporate,4,21.77,0.0,87.08,6,3.0,No
+ORD-10017,2025-03-06,South,Beauty,Consumer,9,37.08,5.0,317.03,5,4.0,No
+ORD-10018,2025-10-23,West,Clothing,Small Business,6,51.44,5.0,293.18,5,3.0,No
+ORD-10019,2025-04-26,South,Clothing,Consumer,4,39.09,15.0,132.89,5,3.0,Yes
+ORD-10020,2025-01-29,West,Electronics,Consumer,5,194.59,20.0,778.35,4,5.0,No
+ORD-10021,2025-08-03,South,Beauty,Consumer,6,21.16,,126.97,5,5.0,No
+ORD-10022,2025-08-28,East,Sports,Consumer,4,74.48,10.0,268.12,5,3.0,No
+ORD-10023,2025-12-31,West,Beauty,Consumer,5,48.34,5.0,229.63,4,2.0,No
+ORD-10024,2025-06-27,East,Clothing,Consumer,1,39.72,15.0,33.76,8,3.0,No
+ORD-10025,2025-10-19,North,Furniture,Corporate,3,139.79,20.0,335.49,2,,No
+ORD-10026,2025-07-15,East,Groceries,Corporate,6,7.14,5.0,40.7,3,3.0,No
+ORD-10027,2025-12-04,West,Clothing,Consumer,3,49.02,0.0,147.07,4,,No
+ORD-10028,2025-06-27,Central,Clothing,Corporate,5,69.19,15.0,294.07,2,5.0,No
+ORD-10029,2025-09-04,East,Electronics,Corporate,6,375.55,,2140.66,4,4.0,No
+ORD-10030,2025-12-18,North,Electronics,Consumer,5,388.81,20.0,1555.24,5,5.0,No
+ORD-10031,2025-11-17,South,Clothing,Small Business,7,52.04,10.0,327.87,6,3.0,No
+ORD-10032,2025-05-27,East,Beauty,Consumer,3,28.9,20.0,69.36,3,5.0,No
+ORD-10033,2025-07-05,North,Groceries,Consumer,4,18.8,0.0,75.19,2,4.0,No
+ORD-10034,2025-08-05,Central,Groceries,Consumer,3,8.14,10.0,21.97,8,2.0,No
+ORD-10035,2025-02-15,East,Furniture,Consumer,4,154.26,0.0,617.05,3,4.0,No
+ORD-10036,2025-03-27,South,Groceries,Consumer,7,21.84,10.0,137.59,4,3.0,No
+ORD-10037,2025-09-16,South,Clothing,Consumer,6,30.89,20.0,148.29,4,4.0,No
+ORD-10038,2025-01-27,North,Electronics,Corporate,5,237.12,10.0,1067.05,5,4.0,No
+ORD-10039,2025-08-08,East,Clothing,Small Business,5,56.13,10.0,252.57,5,3.0,No
+ORD-10040,2025-06-26,East,Electronics,Corporate,3,247.05,0.0,741.14,5,4.0,No
+ORD-10041,2025-06-27,South,Sports,Corporate,5,89.72,0.0,448.58,3,5.0,No
+ORD-10042,2025-11-05,East,Sports,Corporate,6,102.34,10.0,552.65,3,5.0,Yes
+ORD-10043,2025-04-11,South,Furniture,Corporate,2,212.9,5.0,404.52,3,3.0,No
+ORD-10044,2025-10-16,East,Groceries,Consumer,3,19.52,0.0,58.56,4,4.0,No
+ORD-10045,2025-10-14,Central,Clothing,Consumer,2,32.51,10.0,58.52,4,4.0,Yes
+ORD-10046,2025-12-29,South,Electronics,Consumer,4,227.12,10.0,817.65,7,,No
+ORD-10047,2025-10-27,South,Groceries,Consumer,3,27.85,0.0,83.54,7,2.0,No
+ORD-10048,2025-07-05,Central,Groceries,Corporate,3,23.69,0.0,71.06,4,4.0,No
+ORD-10049,2025-05-13,South,Groceries,Consumer,4,7.68,5.0,29.17,4,3.0,No
+ORD-10050,2025-10-13,East,Electronics,Consumer,5,238.93,10.0,1075.19,5,3.0,No
+ORD-10051,2025-12-05,West,Clothing,Consumer,5,47.2,20.0,188.78,6,3.0,No
+ORD-10052,2025-04-13,East,Electronics,Corporate,5,277.67,5.0,1318.92,6,,No
+ORD-10053,2025-05-15,Central,Electronics,Consumer,5,374.86,0.0,1874.3,4,3.0,No
+ORD-10054,2025-07-01,East,Electronics,Consumer,5,456.85,15.0,1941.59,3,4.0,No
+ORD-10055,2025-02-09,East,Electronics,Consumer,3,243.16,0.0,729.49,6,4.0,No
+ORD-10056,2025-04-25,North,Clothing,Consumer,2,66.64,10.0,119.96,3,2.0,No
+ORD-10057,2025-03-02,North,Clothing,Corporate,8,56.46,,429.1,7,4.0,No
+ORD-10058,2025-10-09,East,Groceries,Consumer,3,11.91,20.0,28.59,6,,No
+ORD-10059,2025-06-30,North,Clothing,Consumer,7,24.84,10.0,156.47,4,4.0,No
+ORD-10060,2025-08-09,East,Electronics,Small Business,4,342.79,0.0,1371.14,5,4.0,No
+ORD-10061,2025-01-30,South,Beauty,Consumer,10,34.61,5.0,328.76,3,4.0,No
+ORD-10062,2025-07-29,North,Sports,Corporate,4,68.77,0.0,275.06,7,4.0,No
+ORD-10063,2025-09-20,East,Electronics,Corporate,5,170.24,0.0,851.19,4,2.0,No
+ORD-10064,2025-09-09,East,Clothing,Consumer,3,89.33,5.0,254.6,2,5.0,No
+ORD-10065,2025-10-18,South,Electronics,Consumer,4,253.16,5.0,961.99,7,3.0,No
+ORD-10066,2025-02-11,West,Beauty,Consumer,5,18.78,15.0,79.81,4,4.0,No
+ORD-10067,2025-07-20,North,Clothing,Consumer,5,28.53,0.0,142.63,5,3.0,No
+ORD-10068,2025-06-26,North,Electronics,,4,304.22,5.0,1156.04,4,,No
+ORD-10069,2025-11-23,Central,Groceries,Corporate,3,15.37,15.0,39.19,6,,No
+ORD-10070,2025-09-10,Central,Groceries,Consumer,4,10.2,5.0,38.78,6,2.0,No
+ORD-10071,2025-12-15,South,Furniture,Consumer,2,211.64,5.0,402.11,3,4.0,No
+ORD-10072,2025-01-10,South,Clothing,Corporate,4,56.84,15.0,193.27,2,5.0,No
+ORD-10073,2025-06-13,West,Clothing,Consumer,5,47.26,,212.66,7,,No
+ORD-10074,2025-09-14,East,Furniture,Corporate,4,140.82,5.0,535.12,5,4.0,Yes
+ORD-10075,2025-02-02,North,Furniture,Consumer,4,252.0,25.0,756.0,5,3.0,No
+ORD-10076,2025-08-26,North,Sports,Corporate,4,80.44,0.0,321.76,4,3.0,No
+ORD-10077,2025-03-26,North,Groceries,Small Business,7,14.64,0.0,102.46,8,3.0,No
+ORD-10078,2025-01-28,West,Groceries,Consumer,2,8.96,5.0,17.03,7,3.0,No
+ORD-10079,2025-08-29,East,Groceries,Small Business,1,7.53,0.0,7.53,6,3.0,No
+ORD-10080,2025-06-05,South,Clothing,Consumer,6,46.22,0.0,277.33,4,,No
+ORD-10081,2025-05-29,North,Clothing,Consumer,2,62.3,0.0,124.61,5,4.0,No
+ORD-10082,2025-04-29,North,Groceries,Consumer,4,17.27,10.0,62.18,3,4.0,No
+ORD-10083,2025-09-08,West,Electronics,Consumer,2,294.47,5.0,559.49,3,4.0,No
+ORD-10084,2025-08-14,Central,Electronics,Small Business,3,204.99,15.0,522.73,3,5.0,No
+ORD-10085,2025-09-01,East,Electronics,Consumer,3,181.12,0.0,543.36,6,2.0,No
+ORD-10086,2025-10-15,West,Groceries,Consumer,3,11.93,10.0,32.21,6,4.0,No
+ORD-10087,2025-08-09,South,Groceries,,2,11.97,0.0,23.94,6,3.0,No
+ORD-10088,2025-01-28,East,Clothing,Consumer,5,66.3,0.0,331.51,5,4.0,No
+ORD-10089,2025-02-27,East,Clothing,Corporate,5,38.04,,171.2,6,3.0,No
+ORD-10090,2025-12-28,North,Sports,Consumer,3,52.22,0.0,156.67,6,4.0,No
+ORD-10091,2025-04-15,East,Electronics,Small Business,2,492.69,10.0,886.85,5,3.0,No
+ORD-10092,2025-06-06,West,Clothing,Consumer,4,77.45,10.0,278.81,3,,No
+ORD-10093,2025-05-18,North,Groceries,Corporate,2,8.81,10.0,15.86,4,4.0,Yes
+ORD-10094,2025-12-28,East,Groceries,Corporate,2,20.06,10.0,36.12,4,4.0,No
+ORD-10095,2025-10-28,Central,Clothing,Small Business,3,30.39,20.0,72.93,8,2.0,No
+ORD-10096,2025-06-26,West,Furniture,Small Business,3,154.63,0.0,463.89,9,2.0,No
+ORD-10097,2025-09-07,East,Beauty,Corporate,7,25.03,20.0,140.17,6,4.0,No
+ORD-10098,2025-07-21,North,Clothing,,9,43.79,0.0,394.15,10,4.0,No
+ORD-10099,2025-08-24,West,Sports,Consumer,3,74.53,5.0,212.42,4,5.0,No
+ORD-10100,2025-12-15,North,Groceries,Small Business,4,12.46,20.0,39.86,9,3.0,No
+ORD-10101,2025-09-03,South,Sports,Corporate,3,74.4,0.0,223.21,3,4.0,No
+ORD-10102,2025-02-11,North,Electronics,Small Business,8,208.51,15.0,1417.88,4,4.0,No
+ORD-10103,2025-07-03,East,Clothing,Corporate,3,51.3,10.0,138.5,6,5.0,No
+ORD-10104,2025-10-27,East,Furniture,Consumer,7,185.04,15.0,1101.01,7,4.0,No
+ORD-10105,2025-01-15,West,Furniture,Consumer,1,110.72,0.0,110.72,2,4.0,No
+ORD-10106,2025-05-11,East,Furniture,Consumer,4,213.15,10.0,767.35,8,3.0,No
+ORD-10107,2025-03-15,Central,Clothing,Corporate,2,46.54,0.0,93.08,5,3.0,No
+ORD-10108,2025-09-21,East,Clothing,Consumer,3,35.05,0.0,105.15,7,3.0,No
+ORD-10109,2025-02-21,East,Groceries,Consumer,4,10.34,10.0,37.23,3,,No
+ORD-10110,2025-08-16,North,Furniture,Corporate,4,156.47,10.0,563.28,6,3.0,No
+ORD-10111,2025-01-24,North,Furniture,Consumer,5,165.21,10.0,743.46,8,,No
+ORD-10112,2025-12-04,East,Clothing,Consumer,5,83.29,10.0,374.79,6,3.0,No
+ORD-10113,2025-04-27,West,Groceries,Consumer,2,24.94,,42.4,1,5.0,No
+ORD-10114,2025-05-29,North,Electronics,Consumer,4,92.44,5.0,351.26,8,4.0,No
+ORD-10115,2025-10-15,East,Groceries,Consumer,3,14.24,0.0,42.71,5,4.0,No
+ORD-10116,2025-05-19,South,Clothing,Corporate,2,62.86,15.0,106.86,5,4.0,No
+ORD-10117,2025-02-12,East,Groceries,Small Business,4,11.13,10.0,40.05,8,3.0,No
+ORD-10118,2025-11-27,South,Groceries,Corporate,2,16.61,0.0,33.21,4,1.0,No
+ORD-10119,2025-02-10,North,Clothing,Small Business,6,80.29,5.0,457.64,4,3.0,No
+ORD-10120,2025-07-01,South,Groceries,Consumer,5,7.42,0.0,37.12,7,4.0,No
+ORD-10121,2025-02-15,Central,Beauty,Consumer,4,29.34,15.0,99.76,3,3.0,No
+ORD-10122,2025-09-12,West,Electronics,Consumer,6,476.04,0.0,2856.24,5,,No
+ORD-10123,2025-04-09,North,Clothing,Corporate,5,29.18,10.0,131.3,7,4.0,No
+ORD-10124,2025-12-07,North,Beauty,Consumer,4,26.89,10.0,96.82,4,3.0,No
+ORD-10125,2025-03-15,East,Sports,Small Business,4,51.29,25.0,153.86,4,3.0,No
+ORD-10126,2025-09-02,South,Groceries,Corporate,7,17.34,5.0,115.32,4,4.0,No
+ORD-10127,2025-01-06,West,Furniture,Small Business,2,273.11,20.0,436.98,2,4.0,No
+ORD-10128,2025-02-11,East,Clothing,Consumer,4,47.63,10.0,171.47,3,4.0,No
+ORD-10129,2025-04-11,West,Sports,Corporate,3,60.68,0.0,182.04,3,,No
+ORD-10130,2025-11-19,North,Groceries,Consumer,3,6.57,5.0,18.74,5,3.0,No
+ORD-10131,2025-12-30,Central,Furniture,Consumer,2,296.19,5.0,562.76,5,3.0,No
+ORD-10132,2025-08-12,West,Electronics,Corporate,5,212.09,0.0,1060.47,5,1.0,No
+ORD-10133,2025-05-03,West,Groceries,Consumer,2,11.42,5.0,21.69,5,3.0,No
+ORD-10134,2025-04-24,Central,Groceries,Small Business,5,16.86,0.0,84.3,4,,No
+ORD-10135,2025-03-19,East,Beauty,Corporate,4,30.01,15.0,102.02,5,3.0,No
+ORD-10136,2025-05-05,North,Clothing,Corporate,5,63.94,5.0,303.73,7,3.0,No
+ORD-10137,2025-06-30,East,Clothing,Consumer,3,55.58,0.0,166.75,9,3.0,No
+ORD-10138,2025-09-08,West,Furniture,Consumer,2,193.31,10.0,347.95,4,3.0,Yes
+ORD-10139,2025-03-25,West,Clothing,Consumer,2,50.16,15.0,85.28,3,2.0,No
+ORD-10140,2025-01-14,East,Clothing,Corporate,4,30.38,20.0,97.21,4,4.0,No
+ORD-10141,2025-07-24,West,Electronics,Consumer,4,227.81,20.0,728.98,3,5.0,No
+ORD-10142,2025-03-30,South,Furniture,Small Business,5,263.06,20.0,1052.23,9,4.0,Yes
+ORD-10143,2025-05-27,South,Furniture,Small Business,2,131.42,0.0,262.85,9,3.0,No
+ORD-10144,2025-09-17,East,Sports,Consumer,5,46.71,5.0,221.88,6,3.0,No
+ORD-10145,2025-11-24,East,Furniture,Corporate,3,132.3,5.0,377.06,5,3.0,No
+ORD-10146,2025-07-15,North,Clothing,Consumer,2,47.48,20.0,75.97,3,3.0,No
+ORD-10147,2025-12-05,West,Groceries,Consumer,4,19.61,0.0,78.42,3,4.0,No
+ORD-10148,2025-04-09,East,Electronics,Consumer,1,290.66,10.0,261.59,6,2.0,No
+ORD-10149,2025-09-18,East,Clothing,Small Business,5,21.0,0.0,105.02,8,3.0,No
+ORD-10150,2025-12-24,North,Sports,Small Business,2,75.29,15.0,128.0,6,3.0,No
+ORD-10151,2025-03-20,South,Groceries,Consumer,4,10.28,0.0,41.12,8,1.0,No
+ORD-10152,2025-09-27,West,Clothing,Consumer,6,53.78,15.0,274.29,2,3.0,No
+ORD-10153,2025-06-22,West,Sports,Consumer,3,56.94,20.0,136.66,5,5.0,No
+ORD-10154,2025-11-18,North,Beauty,Consumer,6,20.72,0.0,124.31,4,4.0,No
+ORD-10155,2025-04-22,West,Sports,Consumer,2,58.52,15.0,99.48,8,1.0,No
+ORD-10156,2025-12-17,West,Clothing,Small Business,7,38.56,0.0,269.9,4,3.0,No
+ORD-10157,2025-10-19,West,Groceries,Small Business,1,13.36,5.0,12.7,5,4.0,No
+ORD-10158,2025-09-15,East,Clothing,Consumer,4,33.0,,132.01,7,3.0,No
+ORD-10159,2025-01-11,South,Furniture,Small Business,6,121.42,10.0,655.69,4,4.0,No
+ORD-10160,2025-01-31,West,Clothing,Corporate,3,58.14,0.0,174.43,6,3.0,No
+ORD-10161,2025-08-30,East,Sports,Corporate,4,88.45,10.0,318.42,5,4.0,No
+ORD-10162,2025-06-24,South,Furniture,Small Business,4,220.52,15.0,749.76,6,,No
+ORD-10163,2025-04-28,South,Sports,Consumer,8,47.81,,363.37,3,3.0,No
+ORD-10164,2025-11-04,East,Beauty,Consumer,2,21.61,0.0,43.22,6,4.0,No
+ORD-10165,2025-06-25,East,Furniture,Consumer,5,141.75,0.0,708.76,10,4.0,No
+ORD-10166,2025-06-17,Central,Electronics,Corporate,3,327.76,0.0,983.28,3,4.0,No
+ORD-10167,2025-04-28,South,Beauty,Consumer,3,20.98,25.0,47.2,3,4.0,No
+ORD-10168,2025-12-25,South,Electronics,Consumer,5,327.03,5.0,1553.39,6,3.0,No
+ORD-10169,2025-05-14,Central,Groceries,Consumer,2,15.0,10.0,26.99,2,5.0,No
+ORD-10170,2025-04-05,South,Electronics,Consumer,4,370.13,20.0,1184.4,7,3.0,No
+ORD-10171,2025-09-04,North,Furniture,Consumer,2,261.14,0.0,522.28,7,4.0,No
+ORD-10172,2025-01-13,West,Furniture,Consumer,2,217.65,10.0,391.77,6,4.0,No
+ORD-10173,2025-08-06,Central,Furniture,Small Business,7,107.65,15.0,640.54,4,5.0,No
+ORD-10174,2025-07-26,West,Beauty,Corporate,6,34.67,10.0,187.19,9,,No
+ORD-10175,2025-03-31,South,Electronics,Consumer,2,249.9,0.0,499.8,2,5.0,No
+ORD-10176,2025-10-08,East,Electronics,Small Business,4,210.61,15.0,716.07,1,3.0,No
+ORD-10177,2025-01-16,West,Groceries,Small Business,3,19.33,20.0,46.39,2,3.0,No
+ORD-10178,2025-12-25,Central,Beauty,Consumer,1,26.56,15.0,22.57,8,2.0,No
+ORD-10179,2025-11-09,North,Clothing,Corporate,5,37.39,15.0,158.9,3,3.0,No
+ORD-10180,2025-03-06,Central,Groceries,Consumer,5,17.78,15.0,75.58,6,5.0,No
+ORD-10181,2025-06-29,East,Electronics,Consumer,2,208.27,10.0,374.89,6,2.0,No
+ORD-10182,2025-03-13,North,Sports,Corporate,5,48.99,0.0,244.93,3,3.0,No
+ORD-10183,2025-08-14,North,Groceries,Consumer,5,8.09,20.0,32.35,4,4.0,No
+ORD-10184,2025-05-09,North,Sports,Consumer,3,45.03,0.0,135.08,3,3.0,No
+ORD-10185,2025-06-28,Central,Groceries,Consumer,4,9.28,15.0,31.55,6,5.0,No
+ORD-10186,2025-12-16,East,Beauty,Consumer,2,34.8,5.0,66.12,8,3.0,Yes
+ORD-10187,2025-08-14,West,Clothing,Consumer,8,31.5,10.0,226.8,5,4.0,No
+ORD-10188,2025-11-13,North,Groceries,Small Business,6,6.26,15.0,31.94,6,,No
+ORD-10189,2025-08-17,West,Groceries,Consumer,2,13.34,15.0,22.68,3,2.0,No
+ORD-10190,2025-06-23,East,Furniture,Consumer,6,144.18,0.0,865.09,5,3.0,No
+ORD-10191,2025-01-06,Central,Beauty,,2,27.84,10.0,50.11,4,3.0,No
+ORD-10192,2025-02-02,East,Groceries,Consumer,3,18.8,0.0,56.39,6,3.0,No
+ORD-10193,2025-07-14,West,Sports,Corporate,5,61.52,0.0,307.61,7,2.0,No
+ORD-10194,2025-07-03,East,Clothing,Consumer,2,76.33,5.0,145.02,3,4.0,No
+ORD-10195,2025-07-03,East,Sports,Consumer,1,58.59,25.0,43.94,5,3.0,No
+ORD-10196,2025-11-05,Central,Furniture,Consumer,5,256.05,25.0,960.21,4,2.0,Yes
+ORD-10197,2025-02-04,East,Beauty,Consumer,5,23.12,10.0,104.03,7,3.0,No
+ORD-10198,2025-08-29,Central,Electronics,,5,249.22,15.0,1059.18,3,5.0,No
+ORD-10199,2025-09-30,North,Groceries,Corporate,5,8.66,0.0,43.28,8,4.0,No
+ORD-10200,2025-08-24,East,Electronics,Consumer,5,180.49,0.0,902.44,4,2.0,No
+ORD-10201,2025-03-28,Central,Groceries,Consumer,4,11.09,10.0,39.93,5,3.0,No
+ORD-10202,2025-05-29,Central,Clothing,Small Business,5,28.27,15.0,120.13,4,2.0,No
+ORD-10203,2025-01-20,East,Sports,Consumer,5,63.44,10.0,285.49,1,4.0,No
+ORD-10204,2025-03-06,East,Sports,Consumer,6,53.97,0.0,323.8,5,5.0,No
+ORD-10205,2025-10-21,West,Clothing,Corporate,7,48.85,5.0,324.86,7,2.0,No
+ORD-10206,2025-08-14,South,Sports,Consumer,3,37.89,0.0,113.67,4,3.0,No
+ORD-10207,2025-11-12,Central,Groceries,Small Business,3,15.34,15.0,39.12,9,2.0,No
+ORD-10208,2025-09-10,South,Clothing,Consumer,4,81.52,0.0,326.07,1,5.0,No
+ORD-10209,2025-03-29,North,Clothing,Small Business,3,75.71,5.0,215.78,8,1.0,No
+ORD-10210,2025-10-24,West,Furniture,Consumer,3,350.49,10.0,946.32,2,4.0,No
+ORD-10211,2025-09-08,South,Electronics,Consumer,5,243.59,,1217.95,7,2.0,No
+ORD-10212,2025-03-11,South,Clothing,Consumer,4,39.78,5.0,151.16,5,2.0,No
+ORD-10213,2025-01-02,South,Groceries,Small Business,5,14.23,10.0,64.05,6,4.0,No
+ORD-10214,2025-10-06,Central,Clothing,Consumer,5,41.4,0.0,207.0,5,2.0,No
+ORD-10215,2025-09-21,East,Beauty,Consumer,2,15.23,10.0,27.41,5,3.0,Yes
+ORD-10216,2025-02-02,Central,Electronics,Small Business,4,319.7,25.0,959.11,4,4.0,No
+ORD-10217,2025-06-19,South,Sports,Consumer,2,55.27,0.0,110.55,9,2.0,No
+ORD-10218,2025-11-30,South,Sports,Consumer,2,35.9,0.0,71.8,2,2.0,No
+ORD-10219,2025-10-17,North,Groceries,Consumer,5,10.04,10.0,45.2,6,3.0,No
+ORD-10220,2025-10-26,East,Clothing,Small Business,3,41.79,10.0,112.82,3,3.0,No
+ORD-10221,2025-05-24,North,Electronics,Consumer,4,241.0,25.0,722.99,4,4.0,No
+ORD-10222,2025-02-14,North,Sports,Consumer,3,60.5,0.0,181.51,8,3.0,No
+ORD-10223,2025-05-09,East,Groceries,Small Business,4,19.38,20.0,62.0,4,5.0,No
+ORD-10224,2025-09-08,West,Sports,Corporate,4,38.22,,145.24,7,3.0,Yes
+ORD-10225,2025-11-03,East,Furniture,Consumer,6,170.67,0.0,1023.99,4,4.0,No
+ORD-10226,2025-08-24,East,Groceries,Corporate,3,8.82,5.0,25.14,4,3.0,No
+ORD-10227,2025-01-15,East,Clothing,Consumer,6,69.85,5.0,398.13,5,5.0,No
+ORD-10228,2025-08-04,East,Groceries,Consumer,3,9.86,0.0,29.58,6,3.0,No
+ORD-10229,2025-03-10,West,Groceries,Consumer,3,10.64,0.0,31.92,5,3.0,No
+ORD-10230,2025-08-11,West,Electronics,Corporate,4,346.55,0.0,1386.21,8,3.0,No
+ORD-10231,2025-05-31,West,Electronics,Corporate,2,381.58,10.0,686.84,4,3.0,No
+ORD-10232,2025-07-14,North,Electronics,Consumer,5,401.84,0.0,2009.21,4,3.0,No
+ORD-10233,2025-08-06,East,Electronics,Consumer,4,135.04,0.0,540.15,9,,No
+ORD-10234,2025-08-21,West,Furniture,Consumer,6,213.15,,1278.88,2,5.0,No
+ORD-10235,2025-01-02,Central,Electronics,Corporate,3,263.8,10.0,712.25,5,4.0,No
+ORD-10236,2025-12-19,East,Clothing,Corporate,4,44.2,25.0,132.6,5,3.0,No
+ORD-10237,2025-07-29,East,Groceries,Corporate,3,12.28,0.0,36.85,4,4.0,No
+ORD-10238,2025-07-05,West,Groceries,Small Business,6,18.82,25.0,84.69,7,4.0,No
+ORD-10239,2025-05-19,Central,Clothing,,4,64.73,10.0,233.01,6,2.0,No
+ORD-10240,2025-02-08,East,Electronics,Small Business,2,328.51,20.0,525.61,3,4.0,No
+ORD-10241,2025-08-18,North,Groceries,Corporate,9,12.9,5.0,110.31,7,1.0,No
+ORD-10242,2025-05-13,West,Clothing,Consumer,4,99.62,5.0,378.56,6,4.0,No
+ORD-10243,2025-11-28,West,Furniture,Corporate,6,156.45,15.0,797.9,4,,No
+ORD-10244,2025-08-29,North,Clothing,Consumer,3,25.56,10.0,69.02,5,3.0,Yes
+ORD-10245,2025-06-10,South,Beauty,Consumer,5,25.52,20.0,102.07,8,3.0,No
+ORD-10246,2025-01-12,East,Clothing,Consumer,3,45.92,20.0,110.2,5,4.0,No
+ORD-10247,2025-07-22,West,Beauty,Consumer,5,44.18,5.0,209.86,4,5.0,No
+ORD-10248,2025-11-05,West,Furniture,Corporate,6,150.52,10.0,812.82,4,2.0,No
+ORD-10249,2025-06-18,North,Electronics,Consumer,5,285.02,5.0,1353.86,1,3.0,No
+ORD-10250,2025-08-26,North,Electronics,Consumer,7,143.11,10.0,901.58,6,4.0,No
+ORD-10251,2025-02-13,West,Groceries,Small Business,4,17.52,10.0,63.08,5,3.0,No
+ORD-10252,2025-05-29,North,Clothing,Corporate,2,46.09,,82.96,7,4.0,No
+ORD-10253,2025-10-17,East,Groceries,Consumer,4,10.88,0.0,43.51,2,4.0,No
+ORD-10254,2025-06-04,East,Beauty,Consumer,6,59.04,25.0,265.7,7,4.0,No
+ORD-10255,2025-11-20,South,Clothing,Consumer,6,65.44,0.0,392.64,5,3.0,No
+ORD-10256,2025-05-30,West,Electronics,Small Business,3,166.78,0.0,500.35,12,3.0,No
+ORD-10257,2025-10-24,North,Groceries,Consumer,4,11.55,0.0,46.2,7,2.0,No
+ORD-10258,2025-08-23,West,Furniture,Small Business,3,469.03,0.0,1407.09,3,5.0,No
+ORD-10259,2025-12-12,East,Groceries,Consumer,4,23.99,,91.15,8,1.0,No
+ORD-10260,2025-07-14,East,Sports,Corporate,7,82.88,0.0,580.15,5,3.0,No
+ORD-10261,2025-06-20,Central,Clothing,Consumer,2,23.58,0.0,47.15,3,3.0,No
+ORD-10262,2025-05-10,North,Furniture,Consumer,5,286.92,0.0,1434.61,4,4.0,No
+ORD-10263,2025-08-27,West,Groceries,Consumer,4,9.61,0.0,38.43,3,4.0,No
+ORD-10264,2025-12-24,North,Electronics,Consumer,4,381.41,25.0,1144.22,1,3.0,No
+ORD-10265,2025-03-03,Central,Furniture,Small Business,1,139.77,5.0,132.78,5,4.0,No
+ORD-10266,2025-12-08,North,Clothing,Corporate,2,53.4,0.0,106.79,6,3.0,No
+ORD-10267,2025-12-23,East,Furniture,Consumer,8,143.86,10.0,1035.81,6,4.0,No
+ORD-10268,2025-10-08,North,Electronics,Corporate,5,211.34,10.0,951.05,5,4.0,No
+ORD-10269,2025-07-31,South,Groceries,Consumer,3,14.92,5.0,42.52,6,3.0,No
+ORD-10270,2025-11-11,North,Clothing,Small Business,6,28.36,0.0,170.17,3,5.0,No
+ORD-10271,2025-04-06,North,Clothing,Consumer,5,103.24,10.0,464.56,3,4.0,No
+ORD-10272,2025-08-20,North,Beauty,Consumer,3,19.54,0.0,58.63,6,4.0,No
+ORD-10273,2025-10-21,North,Electronics,Consumer,3,164.27,0.0,492.82,5,3.0,No
+ORD-10274,2025-10-21,West,Electronics,Consumer,4,298.7,,896.1,6,,No
+ORD-10275,2025-08-03,East,Sports,Small Business,4,94.3,5.0,358.36,5,3.0,No
+ORD-10276,2025-05-21,North,Electronics,Consumer,3,214.29,,642.88,3,3.0,No
+ORD-10277,2025-12-13,Central,Beauty,Consumer,4,19.24,0.0,76.98,4,5.0,No
+ORD-10278,2025-09-03,West,Groceries,Small Business,5,8.69,10.0,39.1,4,2.0,No
+ORD-10279,2025-10-09,South,Clothing,Consumer,3,31.38,0.0,94.14,5,5.0,Yes
+ORD-10280,2025-08-16,East,Furniture,Consumer,5,200.5,5.0,952.38,2,4.0,No
+ORD-10281,2025-11-17,East,Clothing,Corporate,5,43.91,0.0,219.56,4,4.0,No
+ORD-10282,2025-06-24,East,Sports,Consumer,4,69.64,0.0,278.57,8,2.0,No
+ORD-10283,2025-07-19,West,Electronics,Small Business,1,272.69,5.0,259.06,4,3.0,No
+ORD-10284,2025-10-21,East,Groceries,Corporate,4,16.01,0.0,64.05,7,3.0,No
+ORD-10285,2025-07-08,Central,Sports,Consumer,2,51.98,5.0,98.76,4,5.0,No
+ORD-10286,2025-03-31,West,Groceries,Consumer,4,9.27,0.0,37.07,5,3.0,No
+ORD-10287,2025-10-04,Central,Electronics,,4,253.49,25.0,760.48,7,4.0,No
+ORD-10288,2025-05-18,East,Groceries,Consumer,1,11.77,10.0,10.59,9,4.0,No
+ORD-10289,2025-02-08,West,Groceries,Corporate,2,13.11,0.0,26.22,2,5.0,No
+ORD-10290,2025-05-17,West,Electronics,Corporate,2,187.08,0.0,374.16,6,3.0,No
+ORD-10291,2025-01-20,West,Sports,Consumer,5,75.12,10.0,338.05,5,5.0,No
+ORD-10292,2025-11-17,North,Electronics,Corporate,7,158.89,10.0,1001.0,7,5.0,No
+ORD-10293,2025-12-26,North,Beauty,Consumer,7,24.0,5.0,159.6,5,4.0,No
+ORD-10294,2025-04-08,South,Electronics,,2,356.31,0.0,712.62,4,3.0,No
+ORD-10295,2025-12-01,South,Furniture,Consumer,3,121.15,,345.27,5,,No
+ORD-10296,2025-09-17,Central,Groceries,Small Business,6,17.33,0.0,103.99,3,,No
+ORD-10297,2025-12-15,West,Electronics,Consumer,3,146.56,0.0,439.69,7,3.0,No
+ORD-10298,2025-03-01,North,Electronics,Consumer,4,137.8,0.0,551.2,4,4.0,No
+ORD-10299,2025-01-23,East,Electronics,Consumer,3,142.28,15.0,362.81,3,3.0,No
+ORD-10300,2025-12-02,South,Sports,Small Business,2,62.5,5.0,118.76,4,4.0,No
+ORD-10301,2025-04-09,West,Electronics,Small Business,2,309.82,0.0,619.64,4,5.0,No
+ORD-10302,2025-08-06,Central,Groceries,Corporate,6,18.87,0.0,113.19,5,4.0,No
+ORD-10303,2025-11-26,North,Groceries,Consumer,5,18.35,10.0,82.56,7,3.0,No
+ORD-10304,2025-05-06,South,Clothing,Corporate,2,60.86,5.0,115.64,5,3.0,No
+ORD-10305,2025-02-02,Central,Clothing,Consumer,2,33.63,10.0,60.54,3,3.0,No
+ORD-10306,2025-10-16,East,Furniture,Corporate,3,134.13,10.0,362.14,6,,No
+ORD-10307,2025-06-14,Central,Beauty,Consumer,3,36.89,5.0,105.14,10,2.0,No
+ORD-10308,2025-01-09,South,Groceries,,2,19.73,5.0,37.5,4,4.0,No
+ORD-10309,2025-05-05,North,Beauty,Corporate,4,19.52,25.0,58.55,8,2.0,No
+ORD-10310,2025-07-13,West,Groceries,Consumer,9,18.87,15.0,144.39,4,3.0,No
+ORD-10311,2025-11-18,North,Sports,Corporate,6,30.64,5.0,174.63,8,4.0,No
+ORD-10312,2025-03-24,West,Beauty,Consumer,2,32.09,10.0,57.77,7,3.0,No
+ORD-10313,2025-07-09,West,Clothing,Consumer,4,43.39,0.0,173.58,6,3.0,No
+ORD-10314,2025-03-08,South,Beauty,Consumer,5,26.07,0.0,130.34,1,5.0,No
+ORD-10315,2025-04-16,East,Electronics,Consumer,3,242.64,0.0,727.92,6,4.0,No
+ORD-10316,2025-04-07,West,Electronics,Consumer,5,178.01,15.0,756.54,8,3.0,No
+ORD-10317,2025-07-11,Central,Clothing,Corporate,2,52.6,20.0,84.17,5,3.0,No
+ORD-10318,2025-08-31,South,Clothing,Corporate,4,45.97,10.0,165.48,8,,No
+ORD-10319,2025-02-11,West,Clothing,Consumer,4,62.43,10.0,224.74,5,4.0,No
+ORD-10320,2025-01-28,North,Clothing,Small Business,7,78.52,0.0,549.61,9,3.0,No
+ORD-10321,2025-09-24,Central,Clothing,Small Business,2,47.04,20.0,75.27,5,4.0,No
+ORD-10322,2025-04-18,West,Sports,Consumer,5,45.05,0.0,225.25,4,3.0,No
+ORD-10323,2025-08-14,North,Clothing,Consumer,6,30.22,20.0,145.04,5,3.0,No
+ORD-10324,2025-01-29,West,Furniture,Small Business,5,326.15,0.0,1630.73,5,3.0,No
+ORD-10325,2025-08-08,West,Groceries,,2,20.79,0.0,41.58,8,2.0,No
+ORD-10326,2025-11-28,West,Groceries,Consumer,5,16.37,10.0,73.67,5,3.0,No
+ORD-10327,2025-06-09,South,Sports,Small Business,4,61.27,0.0,245.08,4,4.0,No
+ORD-10328,2025-07-30,West,Furniture,Corporate,1,239.43,0.0,239.43,4,5.0,No
+ORD-10329,2025-04-18,West,Electronics,Small Business,6,378.87,10.0,2045.92,5,2.0,No
+ORD-10330,2025-04-15,South,Beauty,Small Business,5,22.55,10.0,101.49,3,4.0,No
+ORD-10331,2025-01-24,North,Electronics,Consumer,1,242.52,0.0,242.52,6,4.0,No
+ORD-10332,2025-06-24,Central,Groceries,Corporate,2,8.15,5.0,15.48,2,5.0,No
+ORD-10333,2025-12-12,East,Clothing,Small Business,2,43.01,10.0,77.42,4,5.0,No
+ORD-10334,2025-02-12,East,Clothing,Consumer,2,77.26,0.0,154.52,5,3.0,No
+ORD-10335,2025-06-02,Central,Sports,Consumer,1,87.52,5.0,83.14,7,5.0,No
+ORD-10336,2025-11-02,North,Clothing,,4,47.18,10.0,169.84,2,4.0,No
+ORD-10337,2025-07-01,West,Electronics,,3,93.5,,224.41,7,4.0,No
+ORD-10338,2025-10-05,East,Groceries,Corporate,4,9.54,5.0,36.25,8,2.0,No
+ORD-10339,2025-05-18,North,Electronics,Small Business,2,248.76,10.0,447.76,11,3.0,Yes
+ORD-10340,2025-08-08,Central,Furniture,Consumer,2,166.9,5.0,317.11,5,4.0,No
+ORD-10341,2025-12-27,West,Clothing,Corporate,5,45.52,10.0,204.84,7,3.0,No
+ORD-10342,2025-08-07,North,Clothing,Consumer,4,48.99,15.0,166.56,6,1.0,No
+ORD-10343,2025-10-18,Central,Groceries,Small Business,1,9.96,5.0,9.46,5,4.0,No
+ORD-10344,2025-09-11,Central,Clothing,Corporate,2,44.88,0.0,89.76,7,3.0,No
+ORD-10345,2025-02-04,West,Clothing,Corporate,3,42.71,20.0,102.5,5,,No
+ORD-10346,2025-02-28,North,Clothing,Consumer,6,35.18,10.0,189.98,3,3.0,No
+ORD-10347,2025-08-10,North,Sports,Consumer,2,114.5,10.0,206.1,3,3.0,No
+ORD-10348,2025-05-08,West,Electronics,Consumer,1,203.14,5.0,192.98,3,3.0,No
+ORD-10349,2025-06-26,Central,Beauty,Small Business,3,12.72,0.0,38.16,2,3.0,No
+ORD-10350,2025-06-26,North,Clothing,Consumer,4,84.0,5.0,319.2,7,5.0,No
+ORD-10351,2025-10-17,East,Clothing,Small Business,7,33.46,5.0,222.53,4,2.0,No
+ORD-10352,2025-12-28,North,Groceries,Consumer,5,16.44,5.0,78.1,5,,No
+ORD-10353,2025-12-31,East,Clothing,Consumer,3,35.46,0.0,106.37,4,4.0,No
+ORD-10354,2025-01-30,East,Groceries,Consumer,3,14.65,15.0,37.35,4,5.0,No
+ORD-10355,2025-09-29,North,Beauty,Consumer,6,27.53,5.0,156.93,6,4.0,No
+ORD-10356,2025-09-22,East,Sports,Consumer,2,85.15,10.0,153.28,3,5.0,No
+ORD-10357,2025-11-12,East,Clothing,Consumer,5,41.76,0.0,208.78,3,,No
+ORD-10358,2025-06-05,East,Groceries,Consumer,3,9.54,5.0,27.19,8,2.0,No
+ORD-10359,2025-07-03,Central,Clothing,Corporate,7,49.24,0.0,344.65,5,3.0,No
+ORD-10360,2025-06-14,North,Groceries,Consumer,8,10.5,10.0,75.57,7,3.0,No
+ORD-10361,2025-05-17,North,Electronics,Corporate,7,122.17,10.0,769.68,3,4.0,No
+ORD-10362,2025-04-01,East,Electronics,Corporate,6,194.44,5.0,1108.3,3,4.0,No
+ORD-10363,2025-08-23,East,Groceries,Consumer,5,32.75,25.0,122.82,7,,No
+ORD-10364,2025-01-07,South,Furniture,Consumer,5,95.15,0.0,475.76,4,3.0,No
+ORD-10365,2025-10-01,Central,Groceries,Consumer,4,13.06,5.0,49.61,6,2.0,No
+ORD-10366,2025-11-04,South,Electronics,Consumer,6,220.44,10.0,1190.38,10,2.0,No
+ORD-10367,2025-03-25,South,Electronics,Consumer,6,456.41,5.0,2601.52,5,,No
+ORD-10368,2025-03-19,West,Groceries,Corporate,2,8.13,10.0,14.64,4,4.0,No
+ORD-10369,2025-07-03,Central,Clothing,Consumer,5,46.62,25.0,174.84,3,5.0,No
+ORD-10370,2025-11-05,East,Beauty,Small Business,1,35.6,10.0,32.04,5,5.0,No
+ORD-10371,2025-02-11,North,Furniture,Corporate,3,169.05,0.0,507.15,5,2.0,No
+ORD-10372,2025-06-07,South,Electronics,Consumer,2,183.46,0.0,366.92,7,3.0,No
+ORD-10373,2025-03-20,South,Electronics,Corporate,3,238.14,15.0,607.26,7,3.0,No
+ORD-10374,2025-11-07,East,Clothing,Consumer,7,40.38,0.0,282.66,5,2.0,No
+ORD-10375,2025-11-18,West,Electronics,Consumer,3,215.15,,613.18,3,3.0,No
+ORD-10376,2025-01-31,South,Groceries,Small Business,5,16.62,,66.48,3,,No
+ORD-10377,2025-02-22,East,Electronics,Consumer,1,276.35,15.0,234.9,9,2.0,No
+ORD-10378,2025-02-27,West,Beauty,Consumer,5,33.96,0.0,169.82,5,3.0,No
+ORD-10379,2025-10-24,South,Groceries,Small Business,5,13.47,10.0,60.62,2,4.0,No
+ORD-10380,2025-11-25,North,Groceries,Small Business,3,16.79,5.0,47.86,5,4.0,No
+ORD-10381,2025-05-16,West,Electronics,Consumer,2,378.85,20.0,606.15,6,3.0,No
+ORD-10382,2025-02-27,North,Electronics,Corporate,4,217.09,10.0,781.51,6,3.0,No
+ORD-10383,2025-08-31,North,Clothing,Corporate,5,59.95,5.0,284.75,4,2.0,No
+ORD-10384,2025-11-22,North,Clothing,Corporate,2,28.59,0.0,57.18,3,4.0,No
+ORD-10385,2025-11-29,East,Groceries,Consumer,5,5.45,0.0,27.27,7,3.0,No
+ORD-10386,2025-06-12,East,Clothing,Small Business,6,85.28,5.0,486.08,5,4.0,No
+ORD-10387,2025-10-13,East,Furniture,Consumer,4,160.18,10.0,576.64,5,2.0,No
+ORD-10388,2025-12-15,South,Beauty,Consumer,6,30.59,5.0,174.35,4,3.0,No
+ORD-10389,2025-10-29,East,Furniture,Consumer,6,117.23,15.0,597.87,4,,No
+ORD-10390,2025-06-23,North,Electronics,Consumer,4,153.8,0.0,615.21,1,4.0,No
+ORD-10391,2025-04-06,West,Clothing,Consumer,7,35.06,0.0,245.44,6,3.0,No
+ORD-10392,2025-05-16,Central,Furniture,Consumer,1,225.42,10.0,202.88,1,,No
+ORD-10393,2025-05-13,East,Clothing,Consumer,5,37.56,10.0,169.01,13,2.0,No
+ORD-10394,2025-12-27,South,Groceries,,4,10.67,5.0,40.54,8,4.0,No
+ORD-10395,2025-09-25,West,Groceries,Consumer,8,9.25,5.0,70.28,2,3.0,No
+ORD-10396,2025-11-10,North,Groceries,Consumer,2,18.05,0.0,36.09,8,3.0,Yes
+ORD-10397,2025-10-11,South,Electronics,Small Business,5,325.26,10.0,1463.67,3,4.0,No
+ORD-10398,2025-06-23,Central,Electronics,Consumer,3,202.59,20.0,486.22,3,5.0,No
+ORD-10399,2025-10-16,North,Groceries,Corporate,3,15.25,15.0,38.88,2,4.0,No
+ORD-10400,2025-08-22,North,Furniture,Consumer,3,165.19,10.0,446.03,7,,No
+ORD-10401,2025-09-28,East,Furniture,Corporate,2,159.94,10.0,287.9,5,3.0,No
+ORD-10402,2025-04-20,East,Clothing,Consumer,4,44.22,15.0,150.36,4,4.0,No
+ORD-10403,2025-03-26,East,Groceries,,1,15.03,15.0,12.78,5,4.0,No
+ORD-10404,2025-03-07,North,Electronics,Corporate,4,175.63,0.0,702.51,6,4.0,No
+ORD-10405,2025-04-16,West,Beauty,Consumer,7,33.38,5.0,222.0,7,4.0,Yes
+ORD-10406,2025-12-24,South,Clothing,Consumer,7,107.87,,641.81,5,2.0,No
+ORD-10407,2025-12-10,Central,Beauty,Consumer,5,29.85,15.0,126.88,4,4.0,No
+ORD-10408,2025-02-23,South,Furniture,Corporate,4,182.26,10.0,656.15,2,5.0,No
+ORD-10409,2025-07-22,North,Groceries,Consumer,6,11.65,0.0,69.91,1,5.0,No
+ORD-10410,2025-12-10,East,Clothing,Corporate,2,53.2,15.0,90.44,10,2.0,Yes
+ORD-10411,2025-10-03,North,Sports,Corporate,6,34.15,0.0,204.89,7,4.0,No
+ORD-10412,2025-08-12,East,Clothing,Consumer,5,81.62,0.0,408.09,6,3.0,No
+ORD-10413,2025-08-07,South,Sports,Small Business,2,84.59,5.0,160.71,5,,No
+ORD-10414,2025-04-30,East,Groceries,Small Business,4,9.58,10.0,34.48,7,2.0,No
+ORD-10415,2025-12-04,North,Groceries,Consumer,3,12.13,5.0,34.58,4,4.0,No
+ORD-10416,2025-01-31,East,Furniture,Consumer,3,148.1,10.0,399.87,4,4.0,No
+ORD-10417,2025-11-14,North,Furniture,Consumer,4,199.87,10.0,719.55,8,2.0,No
+ORD-10418,2025-11-14,South,Beauty,Small Business,5,28.61,0.0,143.04,4,5.0,No
+ORD-10419,2025-04-06,North,Beauty,Consumer,5,30.33,0.0,151.66,7,2.0,No
+ORD-10420,2025-07-06,West,Electronics,Consumer,4,167.46,10.0,602.85,4,4.0,No
+ORD-10421,2025-11-19,West,Furniture,Small Business,9,152.08,20.0,1094.99,7,,No
+ORD-10422,2025-06-23,North,Electronics,Corporate,4,358.44,20.0,1147.01,5,3.0,No
+ORD-10423,2025-04-20,North,Furniture,Consumer,61,149.33,,9108.87,6,4.0,No
+ORD-10424,2025-01-26,North,Furniture,Corporate,4,71.36,10.0,256.9,7,4.0,No
+ORD-10425,2025-06-10,South,Sports,Corporate,5,56.92,15.0,241.9,5,3.0,No
+ORD-10426,2025-04-12,East,Electronics,Consumer,2,558.17,0.0,1116.34,4,3.0,No
+ORD-10427,2025-11-07,South,Sports,Consumer,4,80.76,10.0,290.73,5,4.0,No
+ORD-10428,2025-11-11,Central,Beauty,Corporate,5,22.82,5.0,108.41,1,5.0,No
+ORD-10429,2025-04-29,West,Furniture,Consumer,1,176.84,10.0,159.16,3,5.0,No
+ORD-10430,2025-03-18,North,Clothing,Small Business,3,57.09,0.0,171.27,3,3.0,No
+ORD-10431,2025-04-17,North,Clothing,Consumer,3,24.34,0.0,73.01,6,3.0,No
+ORD-10432,2025-05-27,North,Furniture,Corporate,4,133.4,0.0,533.59,3,2.0,No
+ORD-10433,2025-09-02,North,Groceries,Corporate,4,13.8,5.0,52.42,4,2.0,No
+ORD-10434,2025-02-25,East,Groceries,Consumer,6,20.97,0.0,125.81,4,3.0,No
+ORD-10435,2025-12-31,North,Electronics,Consumer,4,205.79,5.0,782.02,2,,No
+ORD-10436,2025-09-13,North,Sports,Small Business,4,103.83,5.0,394.57,5,3.0,No
+ORD-10437,2025-02-17,North,Furniture,Corporate,5,138.23,,691.17,9,3.0,No
+ORD-10438,2025-04-25,West,Electronics,Consumer,3,73.38,0.0,220.15,13,2.0,No
+ORD-10439,2025-09-13,North,Beauty,Consumer,1,36.33,0.0,36.33,6,3.0,No
+ORD-10440,2025-07-03,Central,Electronics,Consumer,2,289.97,25.0,434.96,9,1.0,No
+ORD-10441,2025-07-12,South,Electronics,Consumer,5,310.54,0.0,1552.69,7,2.0,No
+ORD-10442,2025-01-16,South,Furniture,Consumer,3,229.74,10.0,620.3,5,3.0,Yes
+ORD-10443,2025-05-30,East,Furniture,Corporate,3,192.49,5.0,548.61,6,4.0,No
+ORD-10444,2025-08-13,East,Clothing,Consumer,4,41.1,0.0,164.41,2,4.0,No
+ORD-10445,2025-10-01,East,Groceries,Corporate,9,11.11,15.0,84.98,3,4.0,No
+ORD-10446,2025-06-13,East,Clothing,Small Business,2,38.3,10.0,68.94,8,4.0,No
+ORD-10447,2025-07-22,South,Groceries,Small Business,2,10.43,10.0,18.78,5,5.0,No
+ORD-10448,2025-03-23,South,Electronics,Small Business,3,127.33,0.0,381.99,8,3.0,No
+ORD-10449,2025-10-19,North,Clothing,Consumer,4,29.42,0.0,117.68,5,2.0,No
+ORD-10450,2025-09-12,West,Beauty,Consumer,6,26.44,0.0,158.66,7,2.0,No
+ORD-10451,2025-09-29,East,Groceries,Consumer,5,5.48,5.0,26.02,6,2.0,No
+ORD-10452,2025-09-01,West,Groceries,Consumer,3,5.94,20.0,14.26,6,2.0,No
+ORD-10453,2025-12-26,Central,Furniture,Small Business,10,160.13,5.0,1521.19,6,,No
+ORD-10454,2025-11-18,East,Clothing,Corporate,2,43.02,0.0,86.05,7,5.0,No
+ORD-10455,2025-10-23,Central,Sports,,9,53.77,0.0,483.91,4,4.0,No
+ORD-10456,2025-05-03,East,Sports,Consumer,5,26.09,5.0,123.91,3,4.0,No
+ORD-10457,2025-01-25,East,Groceries,Consumer,5,20.66,0.0,103.3,4,5.0,No
+ORD-10458,2025-01-01,East,Clothing,Small Business,5,27.22,5.0,129.3,5,3.0,No
+ORD-10459,2025-10-12,North,Electronics,Consumer,5,180.24,25.0,675.9,10,,No
+ORD-10460,2025-11-25,North,Electronics,Consumer,6,154.32,10.0,833.32,4,5.0,No
+ORD-10461,2025-08-26,East,Electronics,Corporate,5,378.15,0.0,1890.77,6,3.0,No
+ORD-10462,2025-09-21,North,Clothing,Corporate,3,52.15,0.0,156.46,3,5.0,No
+ORD-10463,2025-02-02,South,Electronics,Consumer,5,203.37,10.0,915.14,3,5.0,No
+ORD-10464,2025-07-26,West,Clothing,Consumer,4,37.2,0.0,148.81,5,4.0,No
+ORD-10465,2025-08-10,East,Groceries,Corporate,5,12.78,20.0,51.11,1,4.0,No
+ORD-10466,2025-02-27,North,Groceries,,5,7.76,10.0,34.91,9,2.0,No
+ORD-10467,2025-10-02,North,Groceries,Consumer,6,13.71,5.0,78.15,6,3.0,No
+ORD-10468,2025-05-03,Central,Furniture,Corporate,3,148.55,10.0,401.09,3,4.0,No
+ORD-10469,2025-03-13,Central,Clothing,Consumer,5,53.98,0.0,269.88,4,3.0,No
+ORD-10470,2025-09-12,East,Beauty,Corporate,3,33.19,0.0,99.57,3,4.0,No
+ORD-10471,2025-06-08,North,Clothing,Corporate,9,36.56,10.0,296.12,4,3.0,No
+ORD-10472,2025-07-15,South,Sports,Small Business,3,29.25,0.0,87.75,6,,No
+ORD-10473,2025-07-18,South,Clothing,Corporate,4,41.28,0.0,165.1,4,2.0,No
+ORD-10474,2025-08-16,West,Groceries,Consumer,3,7.23,20.0,17.34,8,3.0,No
+ORD-10475,2025-05-31,East,Clothing,Consumer,5,46.26,15.0,196.59,4,4.0,No
+ORD-10476,2025-10-25,West,Groceries,Small Business,5,10.97,0.0,54.85,4,4.0,No
+ORD-10477,2025-11-16,South,Sports,Consumer,3,48.84,20.0,117.22,6,4.0,No
+ORD-10478,2025-06-26,Central,Clothing,Corporate,2,28.59,0.0,57.19,5,3.0,No
+ORD-10479,2025-03-03,East,Groceries,Consumer,3,18.18,15.0,46.36,4,3.0,No
+ORD-10480,2025-04-12,South,Sports,Consumer,5,51.19,5.0,243.16,6,2.0,No
+ORD-10481,2025-10-09,East,Groceries,Corporate,5,27.35,5.0,129.89,5,4.0,No
+ORD-10482,2025-04-04,East,Electronics,Consumer,4,242.95,10.0,874.63,3,4.0,No
+ORD-10483,2025-10-12,Central,Electronics,Small Business,4,271.43,0.0,1085.71,4,5.0,No
+ORD-10484,2025-08-30,East,Sports,Consumer,2,60.83,,97.33,1,5.0,No
+ORD-10485,2025-06-13,Central,Groceries,Consumer,4,13.52,0.0,54.1,6,3.0,No
+ORD-10486,2025-02-16,South,Beauty,,7,41.04,,229.85,6,,No
+ORD-10487,2025-07-16,South,Furniture,Consumer,3,264.92,0.0,794.77,7,2.0,No
+ORD-10488,2025-09-10,South,Groceries,Corporate,4,6.47,0.0,25.86,7,2.0,No
+ORD-10489,2025-02-26,North,Sports,Consumer,6,80.94,0.0,485.67,2,4.0,No
+ORD-10490,2025-10-29,West,Sports,Consumer,3,71.4,5.0,203.5,8,1.0,No
+ORD-10491,2025-03-13,North,Groceries,Small Business,8,12.15,10.0,87.49,3,3.0,No
+ORD-10492,2025-05-31,South,Electronics,Consumer,6,437.04,10.0,2360.03,7,3.0,No
+ORD-10493,2025-07-14,South,Groceries,Consumer,6,22.16,15.0,113.03,2,5.0,No
+ORD-10494,2025-09-27,West,Groceries,Small Business,4,16.47,5.0,62.58,4,3.0,No
+ORD-10495,2025-03-24,Central,Clothing,Corporate,6,37.2,5.0,212.06,5,4.0,No
+ORD-10496,2025-05-03,West,Furniture,Consumer,6,118.58,0.0,711.48,5,5.0,No
+ORD-10497,2025-10-22,South,Sports,Small Business,2,78.13,10.0,140.64,7,2.0,No
+ORD-10498,2025-05-01,East,Electronics,Consumer,4,386.25,,1235.99,2,5.0,No
+ORD-10499,2025-08-13,South,Clothing,Consumer,1,22.12,5.0,21.02,2,4.0,No
+ORD-10500,2025-05-26,Central,Groceries,Consumer,3,17.55,5.0,50.02,4,5.0,No
+ORD-10501,2025-01-21,North,Beauty,Small Business,3,25.61,0.0,76.83,2,,No
+ORD-10502,2025-07-07,Central,Groceries,Consumer,4,6.37,,25.48,3,3.0,No
+ORD-10503,2025-05-11,West,Furniture,Small Business,3,212.14,10.0,572.78,5,4.0,No
+ORD-10504,2025-04-07,West,Electronics,Consumer,1,329.94,0.0,329.94,5,2.0,No
+ORD-10505,2025-11-10,West,Furniture,Consumer,4,159.17,15.0,541.18,7,3.0,No
+ORD-10506,2025-10-10,South,Furniture,Small Business,3,124.32,0.0,372.97,6,3.0,No
+ORD-10507,2025-04-12,South,Sports,Small Business,86,109.24,0.0,9394.91,6,4.0,No
+ORD-10508,2025-07-11,South,Clothing,Consumer,4,35.61,0.0,142.44,8,4.0,No
+ORD-10509,2025-09-20,North,Electronics,Consumer,3,360.13,5.0,1026.36,3,,No
+ORD-10510,2025-01-20,West,Sports,,6,35.33,15.0,180.19,3,3.0,No
+ORD-10511,2025-02-04,East,Electronics,Consumer,4,277.62,20.0,888.37,3,5.0,No
+ORD-10512,2025-07-17,Central,Electronics,Consumer,7,274.86,5.0,1827.83,5,4.0,No
+ORD-10513,2025-12-06,Central,Clothing,Consumer,3,61.09,0.0,183.27,4,3.0,No
+ORD-10514,2025-12-05,North,Electronics,Small Business,2,404.71,10.0,728.49,1,4.0,No
+ORD-10515,2025-06-14,North,Electronics,Consumer,8,180.52,10.0,1299.78,7,3.0,No
+ORD-10516,2025-09-14,South,Beauty,Consumer,8,33.6,10.0,241.91,2,3.0,No
+ORD-10517,2025-06-29,North,Sports,Consumer,3,37.19,5.0,105.99,6,2.0,No
+ORD-10518,2025-11-27,West,Groceries,Consumer,3,7.41,10.0,20.0,5,,No
+ORD-10519,2025-07-27,West,Groceries,Consumer,2,9.8,0.0,19.6,8,2.0,No
+ORD-10520,2025-11-22,West,Electronics,Consumer,4,276.97,0.0,1107.87,1,3.0,No
+ORD-10521,2025-05-13,East,Sports,Corporate,2,107.9,20.0,172.65,6,4.0,No
+ORD-10522,2025-12-06,West,Clothing,Consumer,1,86.25,0.0,86.25,6,1.0,No
+ORD-10523,2025-09-22,East,Electronics,Consumer,1,211.97,0.0,211.97,3,4.0,No
+ORD-10524,2025-10-08,Central,Furniture,Small Business,2,200.32,0.0,400.63,4,4.0,No
+ORD-10525,2025-01-06,West,Clothing,Consumer,5,62.6,0.0,312.98,5,3.0,No
+ORD-10526,2025-10-22,West,Electronics,Consumer,6,313.73,20.0,1505.89,6,3.0,No
+ORD-10527,2025-03-01,North,Furniture,Consumer,8,169.63,0.0,1357.08,11,2.0,No
+ORD-10528,2025-12-08,West,Clothing,Corporate,3,46.21,5.0,131.71,6,3.0,No
+ORD-10529,2025-03-10,South,Clothing,Corporate,4,43.3,15.0,147.21,9,3.0,No
+ORD-10530,2025-10-29,South,Electronics,Corporate,4,223.12,0.0,892.48,4,4.0,No
+ORD-10531,2025-08-20,East,Groceries,Corporate,5,10.65,0.0,53.24,2,4.0,No
+ORD-10532,2025-05-24,South,Electronics,Consumer,3,230.16,0.0,690.47,5,2.0,No
+ORD-10533,2025-11-22,North,Groceries,Small Business,3,10.41,0.0,31.23,3,4.0,No
+ORD-10534,2025-05-22,North,Furniture,Consumer,5,120.97,,604.86,6,3.0,No
+ORD-10535,2025-01-24,West,Clothing,Consumer,5,60.86,10.0,273.87,5,3.0,No
+ORD-10536,2025-01-28,East,Groceries,Consumer,5,14.38,0.0,71.88,3,4.0,No
+ORD-10537,2025-11-08,Central,Groceries,Consumer,4,23.14,10.0,83.32,6,3.0,No
+ORD-10538,2025-05-21,West,Electronics,Consumer,4,273.14,20.0,874.04,3,4.0,No
+ORD-10539,2025-10-27,South,Clothing,Consumer,3,38.89,0.0,116.67,9,5.0,No
+ORD-10540,2025-01-08,West,Sports,Corporate,5,48.19,0.0,240.94,5,4.0,No
+ORD-10541,2025-01-28,East,Furniture,Corporate,3,183.01,0.0,549.03,3,5.0,No
+ORD-10542,2025-12-27,South,Clothing,Corporate,3,54.61,0.0,163.82,7,4.0,No
+ORD-10543,2025-02-22,Central,Clothing,Consumer,4,41.31,5.0,156.96,5,4.0,No
+ORD-10544,2025-09-08,Central,Sports,Consumer,1,35.86,5.0,34.07,7,4.0,No
+ORD-10545,2025-05-08,North,Clothing,Small Business,4,34.74,0.0,138.98,5,4.0,No
+ORD-10546,2025-07-02,West,Beauty,Consumer,6,28.18,0.0,169.06,3,5.0,No
+ORD-10547,2025-02-11,North,Groceries,Consumer,3,15.55,0.0,46.65,5,4.0,No
+ORD-10548,2025-04-08,Central,Groceries,Consumer,6,7.13,10.0,38.52,3,3.0,No
+ORD-10549,2025-10-04,East,Furniture,Consumer,4,197.5,,750.5,8,2.0,Yes
+ORD-10550,2025-07-15,North,Groceries,Consumer,4,12.97,10.0,46.68,5,4.0,No
+ORD-10551,2025-07-03,West,Electronics,Corporate,4,204.91,10.0,737.69,6,2.0,Yes
+ORD-10552,2025-12-11,East,Clothing,Small Business,4,36.64,5.0,139.25,6,4.0,No
+ORD-10553,2025-05-30,North,Furniture,Small Business,6,139.11,10.0,751.18,7,4.0,No
+ORD-10554,2025-10-21,West,Groceries,Consumer,5,12.61,0.0,63.03,4,3.0,No
+ORD-10555,2025-09-22,West,Groceries,Consumer,5,17.8,10.0,80.11,5,5.0,Yes
+ORD-10556,2025-06-18,East,Beauty,Corporate,5,42.58,5.0,202.26,5,4.0,No
+ORD-10557,2025-04-17,West,Furniture,Consumer,4,121.46,5.0,461.54,3,4.0,No
+ORD-10558,2025-05-10,North,Sports,Consumer,4,56.2,5.0,213.56,4,,No
+ORD-10559,2025-11-15,South,Sports,Corporate,4,27.84,10.0,100.24,3,3.0,No
+ORD-10560,2025-04-22,West,Sports,Consumer,1,62.34,10.0,56.1,6,2.0,No
+ORD-10561,2025-08-27,South,Groceries,Consumer,2,14.79,0.0,29.58,3,2.0,No
+ORD-10562,2025-02-15,East,Furniture,Consumer,4,311.93,5.0,1185.35,5,3.0,No
+ORD-10563,2025-05-07,Central,Sports,Corporate,6,32.11,0.0,192.64,5,5.0,No
+ORD-10564,2025-12-08,West,Groceries,Consumer,7,8.2,0.0,57.4,5,,No
+ORD-10565,2025-07-17,East,Groceries,Consumer,7,12.62,0.0,88.35,4,3.0,No
+ORD-10566,2025-10-28,East,Furniture,Consumer,5,102.16,10.0,459.71,5,,No
+ORD-10567,2025-04-05,Central,Electronics,Small Business,2,254.91,10.0,458.84,5,3.0,No
+ORD-10568,2025-10-05,Central,Furniture,Small Business,2,223.86,,380.56,4,4.0,No
+ORD-10569,2025-12-26,North,Clothing,Small Business,3,28.74,5.0,81.9,4,3.0,No
+ORD-10570,2025-12-04,East,Clothing,Small Business,8,47.14,10.0,339.39,7,3.0,No
+ORD-10571,2025-06-08,North,Sports,Consumer,6,39.25,20.0,188.42,7,2.0,No
+ORD-10572,2025-09-06,North,Electronics,Consumer,3,388.4,0.0,1165.2,4,3.0,No
+ORD-10573,2025-11-24,South,Electronics,Consumer,2,258.0,10.0,464.4,3,4.0,No
+ORD-10574,2025-10-24,East,Clothing,Consumer,3,35.97,0.0,107.91,2,4.0,No
+ORD-10575,2025-12-23,West,Electronics,Corporate,4,155.6,0.0,622.4,4,5.0,No
+ORD-10576,2025-01-12,Central,Clothing,Consumer,3,51.57,25.0,116.02,6,,No
+ORD-10577,2025-07-15,East,Groceries,Small Business,4,19.3,0.0,77.21,5,3.0,No
+ORD-10578,2025-10-16,East,Beauty,Consumer,2,21.37,20.0,34.2,11,1.0,No
+ORD-10579,2025-09-24,North,Furniture,Corporate,5,154.33,15.0,655.89,2,4.0,No
+ORD-10580,2025-02-26,North,Furniture,Small Business,5,138.34,20.0,553.36,9,1.0,No
+ORD-10581,2025-07-28,North,Groceries,Consumer,4,20.68,,74.46,3,4.0,No
+ORD-10582,2025-03-02,Central,Furniture,Corporate,5,92.29,10.0,415.3,7,3.0,No
+ORD-10583,2025-02-03,North,Groceries,Corporate,3,18.82,5.0,53.63,5,4.0,No
+ORD-10584,2025-02-10,West,Groceries,Corporate,4,10.52,5.0,39.96,2,3.0,No
+ORD-10585,2025-12-14,South,Sports,Small Business,1,58.51,15.0,49.74,10,3.0,No
+ORD-10586,2025-04-10,East,Electronics,Consumer,3,213.03,5.0,607.13,8,4.0,No
+ORD-10587,2025-06-16,Central,Beauty,Consumer,1,30.45,5.0,28.93,4,3.0,No
+ORD-10588,2025-04-04,Central,Beauty,Small Business,6,21.69,25.0,97.6,4,4.0,No
+ORD-10589,2025-11-23,South,Electronics,Corporate,3,347.61,5.0,990.68,8,3.0,No
+ORD-10590,2025-11-21,Central,Clothing,Corporate,2,66.11,15.0,112.39,6,,No
+ORD-10591,2025-08-28,South,Clothing,Consumer,5,31.9,0.0,159.48,7,5.0,No
+ORD-10592,2025-10-30,West,Furniture,Consumer,4,227.37,0.0,909.47,6,4.0,No
+ORD-10593,2025-02-08,North,Beauty,Consumer,3,24.72,10.0,66.73,8,1.0,No
+ORD-10594,2025-12-31,East,Electronics,Small Business,3,244.38,5.0,696.47,6,4.0,No
+ORD-10595,2025-06-02,West,Furniture,Consumer,1,306.97,15.0,260.93,5,3.0,No
+ORD-10596,2025-05-27,West,Electronics,Consumer,3,189.56,0.0,568.69,4,4.0,No
+ORD-10597,2025-03-13,West,Groceries,Consumer,4,16.6,0.0,66.39,7,3.0,No
+ORD-10598,2025-11-17,South,Sports,Consumer,6,70.41,15.0,359.09,6,1.0,No
+ORD-10599,2025-03-03,West,Groceries,Consumer,7,11.21,5.0,74.56,3,4.0,No
+ORD-10600,2025-11-10,South,Groceries,Corporate,4,13.65,5.0,51.86,9,3.0,No
+ORD-10601,2025-09-19,South,Electronics,Consumer,2,261.8,0.0,523.6,6,3.0,No
+ORD-10602,2025-10-09,North,Groceries,Consumer,3,8.0,20.0,19.2,4,3.0,No
+ORD-10603,2025-01-11,South,Clothing,Consumer,5,36.39,20.0,145.56,5,4.0,No
+ORD-10604,2025-09-27,North,Clothing,Consumer,4,31.21,5.0,118.61,5,3.0,No
+ORD-10605,2025-12-19,West,Groceries,Small Business,4,10.89,0.0,43.57,7,4.0,No
+ORD-10606,2025-05-24,North,Beauty,Small Business,3,44.83,25.0,100.88,7,2.0,No
+ORD-10607,2025-06-14,East,Groceries,Corporate,9,14.71,20.0,105.88,8,3.0,No
+ORD-10608,2025-02-10,North,Groceries,Small Business,3,7.27,5.0,20.71,3,5.0,No
+ORD-10609,2025-06-28,West,Clothing,Consumer,6,40.89,10.0,220.83,6,4.0,No
+ORD-10610,2025-09-03,South,Electronics,Small Business,2,260.45,5.0,494.85,4,4.0,No
+ORD-10611,2025-04-20,South,Clothing,Consumer,4,58.39,0.0,233.55,4,3.0,No
+ORD-10612,2025-09-28,East,Groceries,Corporate,7,9.56,10.0,60.2,4,3.0,No
+ORD-10613,2025-02-01,Central,Groceries,Corporate,4,7.78,10.0,28.01,1,3.0,No
+ORD-10614,2025-09-04,Central,Groceries,Consumer,6,11.77,,67.06,4,3.0,No
+ORD-10615,2025-08-03,South,Furniture,Consumer,3,219.67,15.0,560.15,10,2.0,No
+ORD-10616,2025-03-25,Central,Furniture,Consumer,2,195.42,5.0,371.3,4,3.0,No
+ORD-10617,2025-05-06,East,Electronics,Consumer,1,176.09,,149.68,4,5.0,No
+ORD-10618,2025-03-29,Central,Groceries,Consumer,2,22.18,0.0,44.35,4,2.0,No
+ORD-10619,2025-08-16,North,Beauty,Small Business,3,27.05,25.0,60.86,3,5.0,No
+ORD-10620,2025-08-21,North,Clothing,Consumer,4,48.16,0.0,192.63,8,2.0,No
+ORD-10621,2025-07-22,North,Groceries,Corporate,4,9.52,0.0,38.07,5,3.0,No
+ORD-10622,2025-03-12,West,Groceries,Consumer,2,17.68,10.0,31.82,7,2.0,No
+ORD-10623,2025-03-21,North,Electronics,,3,293.18,0.0,879.54,6,2.0,No
+ORD-10624,2025-10-23,North,Electronics,Consumer,4,267.94,0.0,1071.77,2,5.0,No
+ORD-10625,2025-06-18,East,Furniture,Consumer,5,120.29,10.0,541.29,4,4.0,No
+ORD-10626,2025-06-08,Central,Beauty,Consumer,7,41.06,0.0,287.44,4,3.0,No
+ORD-10627,2025-04-23,East,Electronics,Consumer,7,312.8,15.0,1861.14,5,5.0,No
+ORD-10628,2025-12-06,West,Groceries,Consumer,3,17.12,0.0,51.35,5,3.0,No
+ORD-10629,2025-03-29,North,Clothing,Consumer,2,45.59,5.0,86.62,3,4.0,No
+ORD-10630,2025-10-08,Central,Groceries,Small Business,4,11.69,5.0,44.42,6,3.0,No
+ORD-10631,2025-10-08,North,Furniture,Small Business,5,168.89,5.0,802.21,5,3.0,No
+ORD-10632,2025-03-30,South,Beauty,Consumer,6,62.17,5.0,354.36,4,3.0,No
+ORD-10633,2025-01-05,East,Clothing,Corporate,5,37.22,5.0,176.79,5,4.0,Yes
+ORD-10634,2025-04-02,South,Beauty,Small Business,8,18.49,0.0,147.89,7,4.0,No
+ORD-10635,2025-04-09,West,Groceries,Consumer,5,10.53,0.0,52.65,6,4.0,No
+ORD-10636,2025-09-29,West,Clothing,Consumer,2,37.34,10.0,67.21,3,3.0,No
+ORD-10637,2025-07-13,North,Groceries,Consumer,4,18.65,5.0,70.87,1,5.0,No
+ORD-10638,2025-06-07,North,Groceries,Consumer,2,7.47,5.0,14.18,5,4.0,No
+ORD-10639,2025-06-23,North,Electronics,Small Business,4,197.19,0.0,788.78,5,4.0,No
+ORD-10640,2025-12-14,North,Groceries,Small Business,3,12.83,20.0,30.79,4,,No
+ORD-10641,2025-12-10,Central,Groceries,Consumer,1,18.71,0.0,18.71,5,3.0,No
+ORD-10642,2025-01-10,East,Groceries,Consumer,1,15.4,20.0,12.32,5,4.0,No
+ORD-10643,2025-11-04,North,Groceries,Small Business,6,21.15,0.0,126.89,2,5.0,No
+ORD-10644,2025-05-12,North,Groceries,Consumer,4,13.54,25.0,40.63,10,2.0,No
+ORD-10645,2025-10-02,West,Clothing,Consumer,2,41.9,5.0,79.62,7,4.0,No
+ORD-10646,2025-12-26,West,Furniture,Consumer,5,242.84,5.0,1153.49,5,5.0,No
+ORD-10647,2025-07-07,Central,Furniture,Small Business,2,111.55,0.0,223.1,5,3.0,No
+ORD-10648,2025-08-16,North,Groceries,Corporate,5,6.6,20.0,26.38,3,3.0,No
+ORD-10649,2025-06-06,East,Furniture,Corporate,7,253.32,0.0,1773.23,5,2.0,No
+ORD-10650,2025-01-28,North,Electronics,Corporate,5,258.36,10.0,1162.6,6,3.0,No
+ORD-10651,2025-01-14,West,Groceries,Consumer,5,16.82,0.0,84.08,8,3.0,No
+ORD-10652,2025-05-12,South,Furniture,Consumer,5,133.57,10.0,601.07,7,,No
+ORD-10653,2025-10-27,West,Electronics,Small Business,4,376.27,10.0,1354.58,4,,No
+ORD-10654,2025-05-05,North,Sports,Small Business,3,75.87,5.0,216.22,4,3.0,No
+ORD-10655,2025-06-07,West,Groceries,Consumer,8,11.87,,85.46,6,,No
+ORD-10656,2025-07-13,South,Groceries,Consumer,4,12.9,15.0,43.87,3,3.0,No
+ORD-10657,2025-04-28,West,Clothing,Small Business,4,50.81,5.0,193.08,8,4.0,No
+ORD-10658,2025-06-28,North,Groceries,Consumer,4,8.89,0.0,35.56,4,5.0,No
+ORD-10659,2025-08-10,West,Beauty,Consumer,1,24.47,5.0,23.25,4,4.0,No
+ORD-10660,2025-11-07,North,Furniture,Consumer,4,202.12,10.0,727.62,3,3.0,No
+ORD-10661,2025-10-03,West,Electronics,Consumer,5,206.82,0.0,1034.09,4,4.0,No
+ORD-10662,2025-10-26,West,Electronics,Corporate,3,143.5,10.0,387.45,5,4.0,No
+ORD-10663,2025-07-10,South,Sports,Corporate,1,66.52,0.0,66.52,6,3.0,No
+ORD-10664,2025-09-13,South,Furniture,Consumer,4,241.19,20.0,771.8,4,3.0,No
+ORD-10665,2025-02-24,South,Clothing,Consumer,5,65.41,10.0,294.34,4,,No
+ORD-10666,2025-02-23,South,Clothing,Consumer,3,54.22,5.0,154.51,6,3.0,No
+ORD-10667,2025-12-03,East,Beauty,Consumer,4,37.29,15.0,126.77,4,3.0,No
+ORD-10668,2025-08-09,North,Furniture,Consumer,4,254.32,15.0,864.68,5,5.0,No
+ORD-10669,2025-02-11,North,Clothing,Consumer,5,46.27,0.0,231.36,6,2.0,No
+ORD-10670,2025-05-29,South,Beauty,Small Business,4,13.34,0.0,53.35,5,3.0,No
+ORD-10671,2025-12-20,South,Furniture,Small Business,1,270.12,5.0,256.62,5,4.0,No
+ORD-10672,2025-01-08,North,Groceries,Consumer,2,8.78,0.0,17.56,5,3.0,No
+ORD-10673,2025-06-11,West,Electronics,Corporate,3,161.55,0.0,484.66,3,4.0,No
+ORD-10674,2025-11-02,North,Furniture,Small Business,4,122.34,,464.87,2,4.0,Yes
+ORD-10675,2025-12-12,Central,Electronics,Consumer,4,572.63,0.0,2290.52,5,4.0,Yes
+ORD-10676,2025-05-15,West,Clothing,Small Business,6,52.5,0.0,315.01,5,3.0,No
+ORD-10677,2025-11-30,South,Furniture,Consumer,2,125.01,0.0,250.02,7,4.0,No
+ORD-10678,2025-09-19,West,Groceries,Corporate,4,9.45,0.0,37.79,6,2.0,No
+ORD-10679,2025-05-29,East,Clothing,Consumer,5,44.99,5.0,213.7,6,,No
+ORD-10680,2025-10-12,East,Clothing,Consumer,3,54.41,0.0,163.22,3,4.0,No
+ORD-10681,2025-10-20,South,Groceries,Corporate,5,13.23,0.0,66.16,9,5.0,No
+ORD-10682,2025-04-11,West,Beauty,Corporate,2,20.23,15.0,34.39,3,3.0,No
+ORD-10683,2025-02-02,North,Furniture,Consumer,4,201.13,10.0,724.07,2,3.0,No
+ORD-10684,2025-10-13,East,Electronics,Corporate,3,193.78,20.0,465.07,5,4.0,No
+ORD-10685,2025-01-31,North,Electronics,Small Business,8,346.21,25.0,2077.29,12,,No
+ORD-10686,2025-10-12,East,Sports,Small Business,4,61.19,10.0,220.3,5,3.0,No
+ORD-10687,2025-05-10,East,Sports,Corporate,6,46.0,15.0,234.59,6,2.0,No
+ORD-10688,2025-09-14,North,Clothing,Consumer,4,57.27,0.0,229.08,5,3.0,No
+ORD-10689,2025-08-11,South,Electronics,Consumer,4,274.45,10.0,988.03,4,4.0,No
+ORD-10690,2025-01-15,West,Clothing,Consumer,3,38.11,5.0,108.61,8,3.0,No
+ORD-10691,2025-01-04,South,Groceries,Small Business,1,15.49,10.0,13.94,5,5.0,No
+ORD-10692,2025-08-18,North,Clothing,Corporate,6,56.08,,336.5,7,3.0,No
+ORD-10693,2025-07-08,South,Electronics,Small Business,4,365.5,20.0,1169.61,7,4.0,No
+ORD-10694,2025-01-16,Central,Clothing,Consumer,4,57.7,5.0,219.25,5,4.0,No
+ORD-10695,2025-12-23,West,Groceries,Small Business,3,11.13,15.0,28.39,3,3.0,No
+ORD-10696,2025-03-29,East,Beauty,Small Business,9,15.5,25.0,104.59,5,4.0,No
+ORD-10697,2025-11-10,West,Electronics,Corporate,2,256.2,20.0,409.92,9,2.0,No
+ORD-10698,2025-02-12,West,Beauty,Small Business,3,31.56,0.0,94.67,1,4.0,No
+ORD-10699,2025-03-26,West,Clothing,Consumer,3,45.81,5.0,130.57,5,3.0,No
+ORD-10700,2025-07-13,East,Groceries,Consumer,2,4.18,10.0,7.53,3,4.0,No
+ORD-10701,2025-07-12,Central,Sports,Consumer,3,76.09,5.0,216.86,4,4.0,No
+ORD-10702,2025-08-09,East,Groceries,Consumer,5,8.72,5.0,41.42,3,3.0,No
+ORD-10703,2025-03-04,South,Electronics,Consumer,2,305.1,10.0,549.18,6,2.0,No
+ORD-10704,2025-04-07,North,Furniture,Corporate,4,326.42,20.0,1044.56,5,4.0,No
+ORD-10705,2025-04-07,North,Sports,Consumer,2,54.92,0.0,109.84,6,2.0,No
+ORD-10706,2025-06-10,East,Groceries,Consumer,4,13.99,0.0,55.96,7,4.0,No
+ORD-10707,2025-12-03,Central,Clothing,Consumer,2,45.52,10.0,81.93,5,3.0,No
+ORD-10708,2025-06-18,West,Groceries,Corporate,4,14.42,10.0,51.92,8,2.0,No
+ORD-10709,2025-12-31,West,Furniture,Small Business,2,186.64,20.0,298.62,8,2.0,No
+ORD-10710,2025-04-02,West,Furniture,Consumer,6,150.21,10.0,811.12,6,,No
+ORD-10711,2025-03-30,Central,Sports,Corporate,4,43.71,5.0,166.1,4,4.0,No
+ORD-10712,2025-02-06,West,Clothing,Small Business,7,78.52,10.0,494.66,3,3.0,No
+ORD-10713,2025-03-19,South,Furniture,Corporate,6,209.86,15.0,1070.3,5,3.0,No
+ORD-10714,2025-04-24,East,Clothing,Corporate,3,60.18,0.0,180.54,2,3.0,No
+ORD-10715,2025-05-21,South,Beauty,Corporate,6,32.2,0.0,193.18,7,3.0,No
+ORD-10716,2025-09-18,North,Electronics,Small Business,2,337.7,10.0,607.86,5,5.0,No
+ORD-10717,2025-06-12,South,Electronics,Consumer,3,175.4,0.0,526.19,7,5.0,No
+ORD-10718,2025-09-08,South,Clothing,Corporate,6,46.33,20.0,222.38,5,3.0,No
+ORD-10719,2025-02-02,North,Electronics,Consumer,2,286.45,0.0,572.9,6,4.0,No
+ORD-10720,2025-12-12,North,Electronics,Consumer,6,377.31,5.0,2150.68,3,4.0,No
+ORD-10721,2025-02-23,Central,Electronics,Corporate,1,611.68,20.0,489.35,3,2.0,No
+ORD-10722,2025-01-13,South,Electronics,Small Business,4,276.79,0.0,1107.17,4,3.0,No
+ORD-10723,2025-06-05,West,Groceries,Small Business,4,9.52,0.0,38.08,2,2.0,No
+ORD-10724,2025-08-26,North,Electronics,Small Business,5,157.93,0.0,789.66,6,4.0,No
+ORD-10725,2025-03-27,Central,Clothing,Corporate,6,32.79,25.0,147.53,4,5.0,No
+ORD-10726,2025-03-01,West,Groceries,Consumer,5,9.15,25.0,34.32,5,4.0,No
+ORD-10727,2025-11-05,Central,Electronics,Small Business,4,86.94,5.0,330.39,6,3.0,No
+ORD-10728,2025-10-28,East,Furniture,Consumer,2,142.09,10.0,255.77,3,4.0,No
+ORD-10729,2025-10-02,East,Beauty,Consumer,8,35.98,10.0,259.08,6,3.0,No
+ORD-10730,2025-03-22,South,Groceries,Consumer,5,12.32,0.0,61.6,4,5.0,No
+ORD-10731,2025-07-15,East,Groceries,Corporate,5,10.96,0.0,54.81,11,3.0,No
+ORD-10732,2025-09-09,West,Clothing,Corporate,10,25.51,20.0,204.06,6,3.0,Yes
+ORD-10733,2025-06-07,North,Beauty,Small Business,2,40.44,0.0,80.88,7,2.0,No
+ORD-10734,2025-03-07,North,Electronics,Consumer,7,287.08,5.0,1909.11,6,,No
+ORD-10735,2025-10-31,Central,Electronics,Small Business,6,238.92,0.0,1433.5,6,3.0,No
+ORD-10736,2025-12-09,North,Sports,Corporate,6,27.76,10.0,149.88,6,4.0,No
+ORD-10737,2025-03-02,West,Electronics,Small Business,3,202.12,0.0,606.36,5,4.0,No
+ORD-10738,2025-09-14,North,Groceries,Consumer,5,13.97,0.0,69.84,4,2.0,No
+ORD-10739,2025-11-20,South,Electronics,Corporate,8,237.61,0.0,1900.9,8,,No
+ORD-10740,2025-07-17,South,Clothing,Corporate,4,48.13,25.0,144.38,5,3.0,No
+ORD-10741,2025-01-18,East,Groceries,Consumer,3,15.25,0.0,45.76,5,3.0,No
+ORD-10742,2025-09-10,West,Groceries,Consumer,6,12.67,5.0,72.21,8,2.0,No
+ORD-10743,2025-12-04,Central,Groceries,Consumer,3,15.06,5.0,42.93,2,3.0,No
+ORD-10744,2025-04-06,South,Electronics,Consumer,5,178.64,0.0,893.22,6,2.0,No
+ORD-10745,2025-02-20,South,Furniture,Consumer,2,117.33,15.0,199.46,5,4.0,No
+ORD-10746,2025-04-03,West,Groceries,Corporate,4,14.18,0.0,56.73,4,4.0,No
+ORD-10747,2025-10-24,North,Electronics,Corporate,4,304.75,10.0,1097.09,4,4.0,No
+ORD-10748,2025-07-23,North,Groceries,Corporate,6,14.39,5.0,82.02,6,2.0,No
+ORD-10749,2025-01-07,East,Clothing,Consumer,5,47.12,15.0,200.26,1,5.0,No
+ORD-10750,2025-08-03,West,Clothing,Consumer,3,40.18,15.0,102.45,4,3.0,No
+ORD-10751,2025-10-25,South,Clothing,Corporate,3,48.45,0.0,145.35,4,5.0,No
+ORD-10752,2025-03-09,North,Groceries,Corporate,3,13.7,15.0,34.94,6,4.0,No
+ORD-10753,2025-08-02,Central,Clothing,Corporate,4,52.48,15.0,178.43,6,3.0,No
+ORD-10754,2025-03-25,Central,Electronics,Corporate,6,597.73,20.0,2869.1,6,5.0,No
+ORD-10755,2025-01-07,East,Beauty,Small Business,4,20.29,25.0,60.86,6,4.0,No
+ORD-10756,2025-05-27,West,Electronics,Small Business,4,742.29,10.0,2672.23,6,,No
+ORD-10757,2025-10-10,Central,Groceries,Corporate,3,7.73,5.0,22.03,4,3.0,No
+ORD-10758,2025-09-02,East,Electronics,Consumer,8,274.68,0.0,2197.48,7,4.0,No
+ORD-10759,2025-02-07,West,Clothing,Consumer,5,29.62,15.0,125.89,5,3.0,No
+ORD-10760,2025-03-09,East,Clothing,Corporate,2,50.09,20.0,80.15,5,3.0,No
+ORD-10761,2025-07-17,South,Electronics,Consumer,5,338.45,0.0,1692.26,6,3.0,No
+ORD-10762,2025-04-28,West,Groceries,Consumer,3,12.14,10.0,32.77,4,3.0,No
+ORD-10763,2025-05-02,West,Furniture,Consumer,3,253.04,0.0,759.11,6,3.0,No
+ORD-10764,2025-06-09,South,Groceries,Small Business,3,10.35,0.0,31.04,5,5.0,No
+ORD-10765,2025-10-05,East,Groceries,Consumer,7,5.86,5.0,38.94,4,5.0,No
+ORD-10766,2025-07-30,West,Groceries,Corporate,5,14.94,0.0,74.72,7,3.0,No
+ORD-10767,2025-11-08,South,Clothing,Small Business,3,45.49,10.0,122.81,8,2.0,Yes
+ORD-10768,2025-02-07,West,Clothing,Corporate,4,38.05,0.0,152.18,6,3.0,No
+ORD-10769,2025-06-19,North,Electronics,Consumer,2,207.88,10.0,374.18,6,3.0,No
+ORD-10770,2025-07-20,East,Beauty,Small Business,5,32.28,10.0,145.27,8,5.0,No
+ORD-10771,2025-10-04,Central,Groceries,Corporate,3,9.02,15.0,23.01,5,4.0,No
+ORD-10772,2025-07-08,Central,Groceries,Consumer,2,13.68,0.0,27.37,4,4.0,No
+ORD-10773,2025-12-01,Central,Clothing,Corporate,6,68.22,0.0,409.3,6,3.0,No
+ORD-10774,2025-11-02,West,Clothing,Consumer,4,92.54,10.0,333.16,2,3.0,No
+ORD-10775,2025-09-09,East,Electronics,Corporate,2,392.38,10.0,706.28,3,4.0,No
+ORD-10776,2025-05-26,West,Electronics,Small Business,4,253.98,5.0,965.12,9,2.0,No
+ORD-10777,2025-04-28,South,Clothing,Consumer,2,49.25,5.0,93.57,5,5.0,No
+ORD-10778,2025-07-14,East,Furniture,Small Business,5,156.47,25.0,586.77,4,3.0,No
+ORD-10779,2025-06-19,East,Electronics,Consumer,4,203.91,0.0,815.63,5,3.0,No
+ORD-10780,2025-01-11,East,Groceries,Small Business,2,16.28,0.0,32.57,4,4.0,No
+ORD-10781,2025-03-25,South,Clothing,Corporate,3,40.41,25.0,90.92,9,2.0,No
+ORD-10782,2025-11-01,South,Clothing,Consumer,3,51.15,15.0,130.44,2,4.0,No
+ORD-10783,2025-06-17,South,Groceries,Small Business,2,8.57,0.0,17.14,1,2.0,No
+ORD-10784,2025-12-13,South,Groceries,Small Business,3,19.39,15.0,49.43,2,4.0,No
+ORD-10785,2025-03-31,East,Electronics,Consumer,5,214.39,0.0,1071.93,4,4.0,No
+ORD-10786,2025-12-20,North,Groceries,Corporate,3,17.56,15.0,44.78,3,3.0,No
+ORD-10787,2025-10-22,Central,Clothing,Consumer,2,35.17,10.0,63.31,4,4.0,No
+ORD-10788,2025-05-11,North,Clothing,Consumer,2,34.53,5.0,65.61,5,3.0,No
+ORD-10789,2025-08-11,West,Sports,Consumer,4,95.5,,305.61,5,4.0,No
+ORD-10790,2025-12-27,South,Electronics,Consumer,3,192.78,15.0,491.58,3,3.0,No
+ORD-10791,2025-08-20,West,Groceries,Consumer,5,6.93,0.0,34.66,4,,No
+ORD-10792,2025-12-07,West,Furniture,Consumer,2,125.08,10.0,225.15,5,2.0,No
+ORD-10793,2025-02-10,Central,Electronics,Small Business,4,323.92,15.0,1101.32,5,3.0,No
+ORD-10794,2025-03-01,Central,Clothing,Consumer,5,58.73,,278.95,9,2.0,No
+ORD-10795,2025-01-01,West,Furniture,Small Business,4,137.84,0.0,551.35,7,4.0,No
+ORD-10796,2025-04-29,North,Electronics,Consumer,6,192.39,0.0,1154.35,7,3.0,No
+ORD-10797,2025-10-16,East,Clothing,Consumer,4,56.95,25.0,170.86,6,3.0,No
+ORD-10798,2025-12-18,South,Furniture,Corporate,8,285.3,5.0,2168.25,3,3.0,No
+ORD-10799,2025-07-17,Central,Clothing,Consumer,3,43.93,5.0,125.2,3,4.0,No
+ORD-10800,2025-06-04,Central,Electronics,Consumer,9,291.38,10.0,2360.16,8,,No
+ORD-10801,2025-12-07,South,Clothing,Small Business,10,61.09,0.0,610.91,6,1.0,No
+ORD-10802,2025-08-03,West,Clothing,Consumer,3,95.6,0.0,286.81,6,3.0,No
+ORD-10803,2025-07-16,South,Clothing,Consumer,2,30.03,0.0,60.06,7,4.0,No
+ORD-10804,2025-01-31,West,Groceries,Corporate,4,9.5,0.0,37.98,9,2.0,No
+ORD-10805,2025-03-20,East,Beauty,Consumer,5,23.45,20.0,93.81,4,4.0,No
+ORD-10806,2025-09-12,East,Electronics,Corporate,4,320.63,0.0,1282.5,4,5.0,No
+ORD-10807,2025-09-12,Central,Clothing,Consumer,4,41.2,0.0,164.81,7,3.0,No
+ORD-10808,2025-07-01,South,Sports,Consumer,2,66.93,5.0,127.16,5,3.0,No
+ORD-10809,2025-09-13,West,Groceries,Consumer,6,12.52,20.0,60.11,6,4.0,No
+ORD-10810,2025-09-10,West,Beauty,Consumer,4,28.02,0.0,112.07,6,4.0,No
+ORD-10811,2025-01-24,South,Groceries,Corporate,3,12.46,0.0,37.38,4,4.0,No
+ORD-10812,2025-11-01,East,Groceries,Small Business,4,17.21,10.0,61.95,5,4.0,No
+ORD-10813,2025-09-11,North,Electronics,Corporate,3,170.88,5.0,486.99,9,,No
+ORD-10814,2025-03-22,East,Furniture,Consumer,3,170.89,10.0,461.39,6,3.0,No
+ORD-10815,2025-03-19,Central,Groceries,Small Business,5,7.84,0.0,39.21,7,3.0,No
+ORD-10816,2025-12-16,North,Clothing,Corporate,4,48.71,15.0,165.63,3,4.0,No
+ORD-10817,2025-04-03,North,Groceries,Consumer,3,11.21,10.0,30.26,1,4.0,No
+ORD-10818,2025-01-12,East,Beauty,Consumer,5,40.71,15.0,173.01,6,4.0,No
+ORD-10819,2025-01-12,South,Furniture,Consumer,6,179.7,25.0,808.63,5,3.0,No
+ORD-10820,2025-03-25,South,Clothing,Consumer,3,38.53,10.0,104.02,8,3.0,No
+ORD-10821,2025-08-17,East,Sports,Consumer,4,55.04,0.0,220.15,7,4.0,No
+ORD-10822,2025-06-16,South,Sports,Consumer,5,109.68,10.0,493.55,8,2.0,No
+ORD-10823,2025-09-25,West,Sports,Small Business,2,34.63,10.0,62.34,3,5.0,No
+ORD-10824,2025-03-26,East,Groceries,Consumer,4,9.63,0.0,38.54,4,4.0,No
+ORD-10825,2025-03-26,East,Beauty,Consumer,2,28.36,0.0,56.71,3,5.0,No
+ORD-10826,2025-05-28,South,Clothing,Small Business,7,36.01,0.0,252.1,3,4.0,No
+ORD-10827,2025-10-17,South,Electronics,Consumer,3,284.97,20.0,683.92,5,3.0,No
+ORD-10828,2025-07-03,East,Electronics,Consumer,5,235.3,15.0,1000.03,6,4.0,No
+ORD-10829,2025-10-06,West,Clothing,Consumer,5,49.22,,221.48,10,3.0,No
+ORD-10830,2025-02-04,Central,Sports,Corporate,5,62.53,15.0,265.74,3,,No
+ORD-10831,2025-05-30,North,Clothing,Consumer,3,43.41,,117.2,3,4.0,No
+ORD-10832,2025-06-09,East,Groceries,Corporate,3,7.64,15.0,19.48,4,4.0,Yes
+ORD-10833,2025-01-25,East,Clothing,Small Business,1,47.86,0.0,47.86,6,3.0,No
+ORD-10834,2025-04-25,North,Groceries,Corporate,7,6.47,0.0,45.31,3,4.0,No
+ORD-10835,2025-04-13,West,Electronics,Small Business,4,189.7,10.0,682.93,8,2.0,No
+ORD-10836,2025-06-16,South,Clothing,Corporate,4,53.4,15.0,181.57,5,3.0,No
+ORD-10837,2025-03-02,Central,Electronics,Corporate,5,363.95,15.0,1546.81,6,2.0,No
+ORD-10838,2025-04-09,East,Clothing,Consumer,2,102.41,25.0,153.61,4,3.0,No
+ORD-10839,2025-12-16,North,Clothing,Consumer,6,38.74,15.0,197.55,6,4.0,No
+ORD-10840,2025-02-22,West,Groceries,Consumer,3,8.87,0.0,26.6,5,4.0,No
+ORD-10841,2025-10-26,North,Clothing,Consumer,2,54.03,0.0,108.05,5,3.0,No
+ORD-10842,2025-07-18,West,Beauty,Consumer,2,53.88,5.0,102.37,6,3.0,No
+ORD-10843,2025-01-29,West,Beauty,Corporate,3,47.88,10.0,129.27,5,3.0,No
+ORD-10844,2025-05-27,East,Furniture,Consumer,3,125.3,5.0,357.09,2,4.0,No
+ORD-10845,2025-07-07,South,Electronics,Corporate,5,228.48,0.0,1142.41,2,3.0,No
+ORD-10846,2025-04-12,East,Electronics,Consumer,3,323.2,5.0,921.12,6,2.0,No
+ORD-10847,2025-04-08,East,Electronics,Small Business,3,331.14,15.0,844.4,4,2.0,No
+ORD-10848,2025-09-17,West,Furniture,Consumer,10,221.43,0.0,2214.3,5,3.0,No
+ORD-10849,2025-01-12,East,Sports,Corporate,5,51.28,10.0,230.76,3,3.0,No
+ORD-10850,2025-12-05,South,Beauty,Corporate,3,34.34,0.0,103.01,5,3.0,No
+ORD-10851,2025-04-28,West,Furniture,Consumer,3,249.19,10.0,672.82,6,4.0,No
+ORD-10852,2025-05-20,West,Groceries,Small Business,4,8.66,10.0,31.18,3,5.0,No
+ORD-10853,2025-02-16,West,Sports,Small Business,6,95.58,0.0,573.46,2,5.0,No
+ORD-10854,2025-11-18,South,Clothing,Corporate,7,63.68,10.0,401.18,2,4.0,No
+ORD-10855,2025-03-23,East,Sports,Small Business,1,46.28,,41.65,5,4.0,No
+ORD-10856,2025-10-21,East,Beauty,Consumer,2,38.7,0.0,77.41,7,3.0,No
+ORD-10857,2025-04-30,West,Beauty,Small Business,2,37.22,20.0,59.55,5,3.0,No
+ORD-10858,2025-01-12,West,Groceries,Small Business,2,16.16,15.0,27.48,3,5.0,No
+ORD-10859,2025-05-30,Central,Clothing,Corporate,4,78.12,5.0,296.86,4,,No
+ORD-10860,2025-07-10,South,Furniture,Small Business,4,179.34,0.0,717.37,3,3.0,No
+ORD-10861,2025-06-20,West,Beauty,Corporate,5,31.44,5.0,149.36,6,,No
+ORD-10862,2025-12-27,Central,Furniture,Consumer,3,71.48,0.0,214.44,9,2.0,No
+ORD-10863,2025-07-09,North,Clothing,Corporate,5,66.5,0.0,332.5,3,4.0,No
+ORD-10864,2025-10-12,North,Furniture,Consumer,5,257.19,10.0,1157.35,2,4.0,No
+ORD-10865,2025-05-16,North,Clothing,Corporate,4,72.33,20.0,231.46,2,5.0,No
+ORD-10866,2025-02-22,East,Electronics,Consumer,4,172.92,0.0,691.66,3,4.0,No
+ORD-10867,2025-07-01,East,Sports,Corporate,7,84.02,10.0,529.33,4,4.0,No
+ORD-10868,2025-07-24,North,Clothing,Consumer,4,64.28,10.0,231.4,3,5.0,No
+ORD-10869,2025-06-02,East,Clothing,Consumer,6,35.83,10.0,193.49,8,4.0,No
+ORD-10870,2025-10-07,West,Clothing,Consumer,5,65.12,15.0,276.77,10,3.0,No
+ORD-10871,2025-12-19,West,Groceries,Consumer,5,14.11,5.0,67.03,6,4.0,Yes
+ORD-10872,2025-01-30,West,Groceries,Corporate,4,6.62,,23.84,2,4.0,No
+ORD-10873,2025-01-25,Central,Beauty,Consumer,2,34.36,0.0,68.71,1,3.0,No
+ORD-10874,2025-04-10,East,Sports,Consumer,5,45.87,0.0,229.35,5,5.0,No
+ORD-10875,2025-08-02,West,Clothing,Consumer,3,25.03,5.0,71.34,6,2.0,No
+ORD-10876,2025-01-16,South,Sports,Consumer,3,68.21,0.0,204.64,5,3.0,No
+ORD-10877,2025-03-12,West,Clothing,Consumer,2,43.98,0.0,87.97,6,3.0,No
+ORD-10878,2025-05-30,Central,Groceries,Consumer,4,19.61,0.0,78.46,8,3.0,No
+ORD-10879,2025-05-18,West,Groceries,Corporate,4,12.79,0.0,51.15,9,2.0,No
+ORD-10880,2025-11-05,East,Clothing,Corporate,2,59.09,5.0,112.28,1,5.0,No
+ORD-10881,2025-07-19,South,Clothing,Small Business,4,53.77,0.0,215.09,3,,No
+ORD-10882,2025-11-15,South,Groceries,Consumer,4,17.15,0.0,68.62,4,4.0,No
+ORD-10883,2025-10-05,North,Furniture,Consumer,2,131.99,10.0,237.58,3,,No
+ORD-10884,2025-06-01,North,Groceries,Consumer,3,12.86,10.0,34.73,8,3.0,No
+ORD-10885,2025-12-23,South,Clothing,Corporate,3,42.84,20.0,102.81,3,3.0,No
+ORD-10886,2025-11-04,North,Groceries,Consumer,3,15.08,20.0,36.2,3,5.0,No
+ORD-10887,2025-06-30,Central,Sports,Consumer,1,65.62,20.0,52.5,5,3.0,Yes
+ORD-10888,2025-11-07,East,Electronics,Corporate,1,193.59,10.0,174.23,5,,No
+ORD-10889,2025-04-04,West,Furniture,Consumer,2,159.92,0.0,319.84,4,5.0,No
+ORD-10890,2025-03-17,East,Groceries,Consumer,4,21.37,0.0,85.47,6,,No
+ORD-10891,2025-10-16,South,Electronics,Corporate,4,132.64,20.0,424.44,9,2.0,No
+ORD-10892,2025-10-16,South,Furniture,Small Business,2,230.73,25.0,346.09,7,3.0,No
+ORD-10893,2025-03-22,West,Groceries,Consumer,2,18.53,5.0,35.21,6,4.0,No
+ORD-10894,2025-10-03,North,Electronics,Consumer,4,293.9,5.0,1116.81,5,4.0,No
+ORD-10895,2025-07-05,West,Groceries,Consumer,4,23.92,0.0,95.68,4,4.0,No
+ORD-10896,2025-07-23,South,Electronics,,5,333.33,0.0,1666.63,5,,No
+ORD-10897,2025-11-06,South,Electronics,Consumer,6,274.54,5.0,1564.85,9,3.0,No
+ORD-10898,2025-02-28,North,Clothing,Consumer,6,38.22,0.0,229.31,7,3.0,No
+ORD-10899,2025-05-28,East,Beauty,Consumer,6,32.24,5.0,183.76,3,3.0,No
+ORD-10900,2025-04-16,North,Groceries,Consumer,4,15.23,15.0,51.79,4,3.0,No
+ORD-10901,2025-07-23,West,Furniture,Corporate,3,180.22,15.0,459.56,5,,No
+ORD-10902,2025-02-27,North,Clothing,Small Business,2,34.7,15.0,58.99,8,4.0,No
+ORD-10903,2025-02-13,South,Groceries,Consumer,2,7.87,0.0,15.75,8,2.0,No
+ORD-10904,2025-09-12,North,Groceries,Corporate,7,12.8,5.0,85.15,3,3.0,No
+ORD-10905,2025-01-21,Central,Furniture,Small Business,7,107.22,10.0,675.46,5,4.0,No
+ORD-10906,2025-06-02,East,Electronics,Consumer,3,203.49,10.0,549.41,6,3.0,No
+ORD-10907,2025-12-26,East,Clothing,Corporate,1,19.21,25.0,14.41,11,3.0,No
+ORD-10908,2025-12-31,East,Groceries,Consumer,5,16.06,0.0,80.31,5,3.0,No
+ORD-10909,2025-03-07,Central,Sports,Small Business,5,89.86,0.0,449.3,3,4.0,No
+ORD-10910,2025-12-05,North,Groceries,Consumer,4,12.34,5.0,46.88,8,2.0,No
+ORD-10911,2025-05-03,West,Groceries,Consumer,2,22.78,5.0,43.28,4,4.0,No
+ORD-10912,2025-03-14,West,Clothing,Small Business,4,72.11,,274.03,7,1.0,No
+ORD-10913,2025-07-04,North,Groceries,Corporate,4,14.19,0.0,56.78,5,4.0,No
+ORD-10914,2025-06-28,North,Groceries,Consumer,4,11.53,0.0,46.14,7,3.0,Yes
+ORD-10915,2025-05-17,East,Furniture,Corporate,5,159.28,5.0,756.58,8,3.0,No
+ORD-10916,2025-06-05,North,Beauty,Small Business,3,34.09,10.0,92.05,7,,No
+ORD-10917,2025-02-05,South,Clothing,Consumer,5,42.83,0.0,214.15,4,2.0,No
+ORD-10918,2025-04-07,South,Groceries,Consumer,5,14.54,15.0,61.79,8,4.0,No
+ORD-10919,2025-03-13,North,Groceries,Consumer,6,14.92,10.0,80.57,4,4.0,No
+ORD-10920,2025-12-07,West,Sports,Small Business,7,55.37,0.0,387.57,5,4.0,No
+ORD-10921,2025-06-30,East,Electronics,Consumer,6,352.19,0.0,2113.13,7,2.0,No
+ORD-10922,2025-07-19,East,Sports,Consumer,3,55.39,0.0,166.16,4,4.0,No
+ORD-10923,2025-06-10,East,Electronics,Consumer,3,241.8,0.0,725.4,2,3.0,No
+ORD-10924,2025-11-19,South,Electronics,Consumer,2,170.46,10.0,306.83,6,3.0,No
+ORD-10925,2025-10-19,East,Sports,Consumer,3,54.58,20.0,130.99,6,2.0,No
+ORD-10926,2025-09-09,Central,Furniture,Consumer,5,383.11,0.0,1915.56,5,5.0,No
+ORD-10927,2025-04-24,South,Groceries,Consumer,6,8.76,0.0,52.54,5,4.0,No
+ORD-10928,2025-04-23,East,Clothing,Consumer,4,52.45,15.0,178.33,5,5.0,No
+ORD-10929,2025-12-10,West,Beauty,Consumer,4,23.88,5.0,90.75,4,3.0,No
+ORD-10930,2025-12-06,East,Groceries,Consumer,8,5.53,5.0,42.02,7,3.0,No
+ORD-10931,2025-04-14,South,Clothing,Consumer,6,54.72,5.0,311.93,2,5.0,No
+ORD-10932,2025-05-03,North,Sports,Corporate,2,49.39,0.0,98.78,2,3.0,No
+ORD-10933,2025-05-01,East,Furniture,Consumer,5,201.26,0.0,1006.32,3,3.0,No
+ORD-10934,2025-10-14,West,Groceries,Consumer,2,16.97,25.0,25.45,3,,No
+ORD-10935,2025-12-13,West,Groceries,Corporate,4,13.03,10.0,46.9,5,3.0,No
+ORD-10936,2025-11-20,West,Groceries,Corporate,6,13.46,0.0,80.77,8,2.0,No
+ORD-10937,2025-11-03,North,Groceries,Corporate,3,8.86,20.0,21.26,4,3.0,No
+ORD-10938,2025-05-08,West,Sports,Small Business,2,76.84,5.0,146.0,5,2.0,No
+ORD-10939,2025-04-26,East,Groceries,Consumer,6,11.23,0.0,67.38,4,2.0,No
+ORD-10940,2025-11-21,Central,Beauty,Consumer,3,13.91,25.0,31.3,3,2.0,No
+ORD-10941,2025-05-25,West,Electronics,Consumer,4,320.59,10.0,1154.14,2,4.0,No
+ORD-10942,2025-03-20,East,Clothing,Consumer,6,66.9,15.0,341.19,7,4.0,No
+ORD-10943,2025-11-04,West,Groceries,Small Business,3,20.15,0.0,60.46,5,5.0,No
+ORD-10944,2025-06-25,East,Furniture,Corporate,6,384.81,0.0,2308.85,4,4.0,No
+ORD-10945,2025-02-01,South,Clothing,Corporate,6,58.99,20.0,283.16,4,3.0,No
+ORD-10946,2025-11-24,East,Groceries,Small Business,3,14.37,0.0,43.1,7,,No
+ORD-10947,2025-04-18,North,Clothing,Small Business,4,65.94,20.0,211.0,6,4.0,No
+ORD-10948,2025-04-23,North,Electronics,Consumer,4,175.95,15.0,598.22,5,,No
+ORD-10949,2025-07-14,West,Electronics,Small Business,3,133.68,5.0,380.99,8,4.0,No
+ORD-10950,2025-04-09,South,Furniture,Consumer,3,152.32,20.0,365.58,5,4.0,No
+ORD-10951,2025-10-30,West,Furniture,Consumer,2,281.46,20.0,450.34,6,3.0,No
+ORD-10952,2025-09-10,East,Electronics,Consumer,2,190.42,15.0,323.72,4,4.0,No
+ORD-10953,2025-07-26,West,Sports,Small Business,5,70.62,5.0,335.44,13,1.0,No
+ORD-10954,2025-03-15,West,Furniture,Corporate,7,220.0,10.0,1385.98,4,2.0,No
+ORD-10955,2025-06-28,West,Sports,Consumer,6,65.36,0.0,392.13,6,5.0,No
+ORD-10956,2025-04-10,East,Beauty,Small Business,4,17.9,0.0,71.62,4,4.0,No
+ORD-10957,2025-12-18,Central,Clothing,Consumer,5,50.73,20.0,202.94,3,4.0,No
+ORD-10958,2025-10-17,South,Beauty,Corporate,2,24.16,25.0,36.24,10,1.0,No
+ORD-10959,2025-02-12,West,Electronics,Consumer,4,435.56,0.0,1742.25,3,,No
+ORD-10960,2025-07-12,East,Groceries,Consumer,10,17.86,10.0,160.78,6,4.0,No
+ORD-10961,2025-10-12,South,Beauty,Consumer,3,24.46,20.0,58.7,3,2.0,No
+ORD-10962,2025-07-11,East,Sports,Small Business,5,111.31,10.0,500.91,8,,No
+ORD-10963,2025-02-16,East,Furniture,Small Business,6,203.01,0.0,1218.06,7,3.0,No
+ORD-10964,2025-02-21,South,Furniture,Consumer,60,100.27,0.0,6016.31,5,2.0,No
+ORD-10965,2025-09-25,South,Furniture,Consumer,3,175.13,5.0,499.13,5,4.0,No
+ORD-10966,2025-07-11,North,Beauty,,7,49.63,20.0,277.92,8,4.0,No
+ORD-10967,2025-07-18,Central,Furniture,Corporate,6,135.1,0.0,810.6,2,4.0,No
+ORD-10968,2025-04-09,East,Clothing,Consumer,6,43.94,5.0,250.45,1,3.0,No
+ORD-10969,2025-04-07,North,Clothing,Corporate,6,27.96,15.0,142.59,6,2.0,No
+ORD-10970,2025-05-29,West,Clothing,Consumer,4,29.56,15.0,100.49,4,4.0,No
+ORD-10971,2025-07-18,East,Clothing,Consumer,5,33.61,20.0,134.42,6,3.0,No
+ORD-10972,2025-06-21,West,Clothing,Small Business,4,29.28,15.0,99.57,4,3.0,No
+ORD-10973,2025-11-17,East,Groceries,Corporate,5,9.66,10.0,43.49,4,3.0,No
+ORD-10974,2025-03-10,North,Clothing,Consumer,6,82.69,20.0,396.9,5,2.0,No
+ORD-10975,2025-06-22,North,Clothing,Consumer,5,44.44,10.0,199.96,4,4.0,No
+ORD-10976,2025-03-27,West,Clothing,Consumer,3,59.24,,159.95,4,4.0,No
+ORD-10977,2025-01-03,West,Clothing,Consumer,4,65.94,0.0,263.75,3,4.0,No
+ORD-10978,2025-06-01,West,Groceries,Consumer,3,8.14,5.0,23.2,4,4.0,No
+ORD-10979,2025-01-21,North,Clothing,Corporate,3,33.64,0.0,100.91,5,3.0,No
+ORD-10980,2025-05-16,West,Clothing,Consumer,2,58.83,20.0,94.13,7,3.0,No
+ORD-10981,2025-08-19,East,Furniture,Consumer,3,144.16,0.0,432.49,8,2.0,No
+ORD-10982,2025-05-18,West,Electronics,Consumer,6,306.58,0.0,1839.51,2,,No
+ORD-10983,2025-09-05,South,Sports,Consumer,4,107.92,25.0,323.77,5,3.0,No
+ORD-10984,2025-04-18,West,Sports,Consumer,7,36.05,15.0,214.51,3,2.0,No
+ORD-10985,2025-05-27,Central,Furniture,Small Business,3,158.86,15.0,405.1,3,4.0,No
+ORD-10986,2025-11-16,South,Clothing,Consumer,3,41.98,10.0,113.35,4,2.0,No
+ORD-10987,2025-03-30,West,Clothing,Corporate,2,37.43,0.0,74.86,4,4.0,No
+ORD-10988,2025-07-02,East,Groceries,Consumer,3,9.7,0.0,29.1,3,4.0,No
+ORD-10989,2025-09-19,South,Electronics,Consumer,3,202.03,15.0,515.17,7,3.0,No
+ORD-10990,2025-05-13,South,Beauty,Consumer,3,27.85,20.0,66.84,4,3.0,Yes
+ORD-10991,2025-04-22,West,Electronics,Corporate,4,254.26,5.0,966.18,2,5.0,Yes
+ORD-10992,2025-09-12,South,Beauty,Consumer,4,39.09,,156.36,7,3.0,No
+ORD-10993,2025-01-28,North,Electronics,Corporate,3,237.9,0.0,713.7,5,2.0,No
+ORD-10994,2025-04-07,Central,Furniture,Consumer,4,266.22,5.0,1011.63,5,5.0,No
+ORD-10995,2025-05-30,East,Furniture,Corporate,3,146.32,0.0,438.97,7,2.0,No
+ORD-10996,2025-03-21,West,Furniture,Consumer,3,118.21,0.0,354.64,7,2.0,No
+ORD-10997,2025-07-16,East,Beauty,Consumer,2,25.17,5.0,47.82,3,5.0,No
+ORD-10998,2025-08-15,East,Clothing,Corporate,3,52.91,10.0,142.85,6,4.0,No
+ORD-10999,2025-12-19,West,Electronics,Consumer,5,324.34,10.0,1459.54,5,3.0,No
+ORD-11000,2025-08-08,North,Beauty,Consumer,2,46.68,0.0,93.36,3,3.0,No
+ORD-11001,2025-08-05,South,Furniture,Corporate,4,199.24,0.0,796.97,5,,No
+ORD-11002,2025-09-22,East,Electronics,Corporate,2,312.37,,624.75,9,2.0,No
+ORD-11003,2025-03-18,Central,Electronics,Corporate,6,387.5,10.0,2092.49,5,5.0,No
+ORD-11004,2025-06-21,South,Clothing,Consumer,3,34.26,0.0,102.77,6,4.0,No
+ORD-11005,2025-10-31,Central,Beauty,Consumer,2,26.01,20.0,41.62,7,3.0,No
+ORD-11006,2025-03-06,West,Electronics,Consumer,3,632.99,0.0,1898.98,3,,No
+ORD-11007,2025-04-17,East,Groceries,,4,16.19,15.0,55.06,7,3.0,No
+ORD-11008,2025-03-22,East,Furniture,Consumer,3,215.23,0.0,645.69,3,3.0,No
+ORD-11009,2025-12-17,North,Furniture,Consumer,5,246.1,10.0,1107.46,3,3.0,No
+ORD-11010,2025-05-10,East,Groceries,Consumer,5,7.52,10.0,33.84,3,,No
+ORD-11011,2025-04-29,North,Groceries,Consumer,2,9.57,0.0,19.14,5,4.0,No
+ORD-11012,2025-10-25,East,Groceries,Consumer,1,8.42,5.0,8.0,4,3.0,No
+ORD-11013,2025-11-28,South,Furniture,Consumer,2,208.4,0.0,416.8,7,4.0,No
+ORD-11014,2025-01-02,Central,Electronics,Consumer,2,210.92,5.0,400.76,4,3.0,No
+ORD-11015,2025-11-17,South,Groceries,Consumer,2,12.41,20.0,19.85,3,4.0,No
+ORD-11016,2025-09-16,East,Groceries,Corporate,3,10.76,10.0,29.06,13,2.0,Yes
+ORD-11017,2025-11-12,South,Clothing,Consumer,6,25.47,10.0,137.53,3,5.0,Yes
+ORD-11018,2025-02-01,North,Furniture,Consumer,3,245.35,0.0,736.06,6,4.0,No
+ORD-11019,2025-01-15,South,Groceries,Small Business,2,6.48,5.0,12.3,3,4.0,No
+ORD-11020,2025-05-03,West,Electronics,Consumer,5,186.04,10.0,837.18,10,3.0,No
+ORD-11021,2025-11-07,East,Groceries,Consumer,2,7.57,0.0,15.14,6,2.0,No
+ORD-11022,2025-07-01,East,Groceries,Corporate,7,8.82,0.0,61.74,4,,No
+ORD-11023,2025-09-21,West,Furniture,Corporate,5,193.18,0.0,965.89,7,3.0,No
+ORD-11024,2025-03-31,North,Clothing,Small Business,3,69.33,0.0,208.0,4,4.0,No
+ORD-11025,2025-05-03,West,Clothing,Small Business,3,26.06,25.0,58.63,5,4.0,No
+ORD-11026,2025-11-17,North,Groceries,Corporate,2,9.87,0.0,19.75,3,4.0,No
+ORD-11027,2025-06-28,Central,Beauty,Consumer,3,15.18,0.0,45.54,4,3.0,No
+ORD-11028,2025-10-12,Central,Groceries,Consumer,2,9.71,0.0,19.42,4,1.0,No
+ORD-11029,2025-08-22,West,Electronics,Consumer,3,246.12,0.0,738.35,5,4.0,No
+ORD-11030,2025-03-06,North,Clothing,Consumer,3,58.86,5.0,167.75,4,4.0,No
+ORD-11031,2025-12-11,East,Groceries,Small Business,1,5.72,0.0,5.72,4,4.0,No
+ORD-11032,2025-12-12,West,Clothing,Consumer,5,54.56,0.0,272.81,6,3.0,No
+ORD-11033,2025-10-12,East,Groceries,Small Business,5,8.54,0.0,42.69,3,5.0,No
+ORD-11034,2025-06-21,South,Electronics,Consumer,3,156.8,15.0,399.84,6,3.0,No
+ORD-11035,2025-06-06,East,Electronics,Consumer,4,245.74,5.0,933.8,5,3.0,No
+ORD-11036,2025-04-19,North,Furniture,Small Business,2,224.18,10.0,403.53,8,,No
+ORD-11037,2025-08-24,East,Sports,Consumer,6,57.93,0.0,347.56,3,4.0,No
+ORD-11038,2025-04-24,North,Groceries,Consumer,6,8.19,0.0,49.11,3,4.0,No
+ORD-11039,2025-03-09,East,Clothing,Consumer,5,43.44,25.0,162.89,6,4.0,No
+ORD-11040,2025-01-23,South,Furniture,Consumer,3,139.65,0.0,418.95,2,4.0,No
+ORD-11041,2025-06-04,North,Beauty,Consumer,6,34.59,5.0,197.17,4,4.0,No
+ORD-11042,2025-10-25,North,Sports,Corporate,2,87.42,0.0,174.84,5,4.0,No
+ORD-11043,2025-10-16,Central,Clothing,Small Business,6,64.11,0.0,384.69,4,2.0,No
+ORD-11044,2025-11-07,East,Groceries,Corporate,2,11.92,10.0,21.45,8,2.0,No
+ORD-11045,2025-08-10,East,Beauty,Small Business,1,41.48,10.0,37.33,5,5.0,No
+ORD-11046,2025-11-13,West,Furniture,Small Business,5,125.92,0.0,629.58,5,3.0,No
+ORD-11047,2025-10-13,East,Clothing,Consumer,9,83.99,5.0,718.09,4,,No
+ORD-11048,2025-10-22,South,Groceries,Corporate,4,8.38,5.0,31.84,4,5.0,No
+ORD-11049,2025-07-06,East,Clothing,Corporate,82,22.11,5.0,1722.53,4,,No
+ORD-11050,2025-02-01,South,Groceries,Consumer,3,19.35,15.0,49.35,4,3.0,No
+ORD-11051,2025-05-19,East,Clothing,Consumer,4,35.1,10.0,126.35,2,5.0,No
+ORD-11052,2025-11-06,North,Furniture,Corporate,5,187.51,0.0,937.53,7,3.0,No
+ORD-11053,2025-09-29,Central,Clothing,Small Business,7,31.37,0.0,219.6,5,,No
+ORD-11054,2025-01-05,East,Groceries,Small Business,4,27.44,10.0,98.8,5,2.0,No
+ORD-11055,2025-02-04,South,Electronics,Consumer,4,454.08,0.0,1816.32,4,,Yes
+ORD-11056,2025-08-29,East,Clothing,Corporate,1,77.32,20.0,61.86,9,3.0,No
+ORD-11057,2025-12-24,North,Electronics,Consumer,4,247.54,15.0,841.63,7,3.0,No
+ORD-11058,2025-09-24,East,Sports,Small Business,2,84.57,0.0,169.14,4,3.0,No
+ORD-11059,2025-12-13,Central,Electronics,Corporate,8,235.58,15.0,1601.98,2,4.0,No
+ORD-11060,2025-01-25,West,Electronics,Small Business,4,355.46,0.0,1421.84,5,3.0,No
+ORD-11061,2025-11-18,West,Groceries,Small Business,3,10.39,0.0,31.18,4,3.0,No
+ORD-11062,2025-02-16,East,Electronics,Consumer,3,417.92,25.0,940.32,3,3.0,No
+ORD-11063,2025-11-19,East,Groceries,,5,10.21,15.0,43.4,7,5.0,No
+ORD-11064,2025-12-22,North,Clothing,Corporate,4,39.85,5.0,151.43,4,4.0,No
+ORD-11065,2025-07-06,East,Sports,Consumer,2,50.96,15.0,86.63,5,2.0,No
+ORD-11066,2025-07-14,East,Electronics,Consumer,4,256.72,0.0,1026.89,2,4.0,No
+ORD-11067,2025-07-01,North,Electronics,Corporate,4,209.51,10.0,754.24,5,3.0,No
+ORD-11068,2025-07-21,North,Furniture,Consumer,4,213.47,25.0,640.41,8,4.0,No
+ORD-11069,2025-10-27,North,Beauty,Consumer,4,23.66,15.0,80.45,2,4.0,No
+ORD-11070,2025-04-13,South,Sports,Corporate,1,79.13,5.0,75.18,5,3.0,No
+ORD-11071,2025-04-14,North,Furniture,Consumer,2,306.24,0.0,612.49,7,5.0,No
+ORD-11072,2025-12-20,South,Furniture,Consumer,8,184.95,20.0,1183.7,5,3.0,No
+ORD-11073,2025-11-07,East,Electronics,Corporate,7,521.68,0.0,3651.76,5,4.0,No
+ORD-11074,2025-07-17,East,Furniture,Consumer,4,267.09,20.0,854.69,3,4.0,No
+ORD-11075,2025-03-15,North,Furniture,Corporate,1,380.44,0.0,380.44,10,2.0,No
+ORD-11076,2025-12-15,East,Sports,Consumer,5,58.73,0.0,293.64,6,,No
+ORD-11077,2025-11-17,West,Electronics,Small Business,5,134.17,0.0,670.86,9,4.0,No
+ORD-11078,2025-04-30,South,Sports,Consumer,1,46.86,5.0,44.52,3,4.0,No
+ORD-11079,2025-07-17,South,Electronics,Small Business,4,194.26,0.0,777.04,6,4.0,No
+ORD-11080,2025-06-03,East,Sports,Corporate,6,42.98,5.0,245.0,6,4.0,No
+ORD-11081,2025-11-04,South,Clothing,Small Business,5,20.87,20.0,83.46,7,3.0,No
+ORD-11082,2025-09-08,South,Electronics,Consumer,5,343.53,0.0,1717.63,6,2.0,No
+ORD-11083,2025-06-29,East,Groceries,Consumer,4,6.26,10.0,22.53,9,1.0,No
+ORD-11084,2025-12-20,South,Furniture,Consumer,2,249.15,5.0,473.39,7,5.0,No
+ORD-11085,2025-08-11,West,Sports,Consumer,8,128.93,10.0,928.31,7,3.0,No
+ORD-11086,2025-06-26,West,Groceries,Consumer,3,9.14,5.0,26.04,7,3.0,No
+ORD-11087,2025-12-05,South,Beauty,Corporate,5,32.07,20.0,128.27,3,5.0,No
+ORD-11088,2025-06-14,East,Sports,Consumer,4,52.19,5.0,198.31,4,3.0,No
+ORD-11089,2025-06-02,Central,Furniture,Consumer,3,240.43,5.0,685.23,8,1.0,No
+ORD-11090,2025-05-22,East,Clothing,Consumer,3,29.63,0.0,88.88,4,2.0,No
+ORD-11091,2025-03-22,Central,Groceries,Corporate,7,11.46,5.0,76.2,6,3.0,No
+ORD-11092,2025-04-12,West,Furniture,Corporate,4,266.5,0.0,1066.0,4,4.0,No
+ORD-11093,2025-02-03,South,Groceries,Consumer,5,11.8,10.0,53.08,9,4.0,No
+ORD-11094,2025-09-23,South,Furniture,Consumer,5,101.79,5.0,483.51,6,4.0,No
+ORD-11095,2025-08-04,North,Groceries,Consumer,6,18.53,15.0,94.51,7,1.0,No
+ORD-11096,2025-12-07,West,Clothing,Corporate,2,28.59,5.0,54.32,4,5.0,No
+ORD-11097,2025-08-12,South,Electronics,Corporate,4,246.71,10.0,888.14,3,3.0,No
+ORD-11098,2025-01-30,West,Beauty,Consumer,4,34.33,0.0,137.34,5,5.0,No
+ORD-11099,2025-08-15,East,Sports,Consumer,5,62.57,10.0,281.57,4,4.0,No
+ORD-11100,2025-03-05,West,Furniture,Corporate,5,437.49,25.0,1640.6,8,3.0,No
+ORD-11101,2025-01-14,West,Electronics,Corporate,5,310.28,5.0,1473.83,3,4.0,No
+ORD-11102,2025-08-30,North,Groceries,Consumer,3,11.18,0.0,33.54,7,2.0,No
+ORD-11103,2025-01-11,South,Furniture,Consumer,3,222.27,10.0,600.13,4,3.0,No
+ORD-11104,2025-05-30,East,Groceries,Consumer,9,12.91,0.0,116.23,7,3.0,No
+ORD-11105,2025-11-23,West,Groceries,Corporate,3,12.19,5.0,34.74,7,2.0,No
+ORD-11106,2025-04-04,West,Furniture,Consumer,2,196.03,0.0,392.07,3,5.0,No
+ORD-11107,2025-09-11,East,Furniture,Corporate,4,154.63,5.0,587.59,6,3.0,No
+ORD-11108,2025-05-18,West,Electronics,Corporate,3,258.57,20.0,620.56,3,5.0,No
+ORD-11109,2025-02-11,East,Furniture,Small Business,3,150.81,0.0,452.44,5,3.0,No
+ORD-11110,2025-03-13,North,Groceries,Small Business,6,6.18,5.0,35.22,8,2.0,No
+ORD-11111,2025-01-28,Central,Electronics,Consumer,2,357.71,0.0,715.41,5,4.0,No
+ORD-11112,2025-02-25,East,Beauty,Corporate,4,22.97,0.0,91.89,7,3.0,No
+ORD-11113,2025-03-01,West,Groceries,Corporate,2,12.61,10.0,22.7,4,5.0,No
+ORD-11114,2025-11-19,South,Furniture,Small Business,1,137.94,10.0,124.14,3,5.0,No
+ORD-11115,2025-10-22,East,Clothing,Consumer,3,34.85,20.0,83.64,4,5.0,No
+ORD-11116,2025-05-09,South,Clothing,Consumer,3,31.28,0.0,93.84,7,,No
+ORD-11117,2025-09-21,South,Clothing,Small Business,4,62.71,0.0,250.85,6,,No
+ORD-11118,2025-03-16,North,Groceries,Consumer,5,18.2,5.0,86.44,7,3.0,No
+ORD-11119,2025-08-22,West,Electronics,Small Business,4,242.19,10.0,871.88,2,5.0,No
+ORD-11120,2025-03-15,South,Furniture,Consumer,3,149.18,10.0,402.78,4,4.0,No
+ORD-11121,2025-08-22,South,Electronics,Consumer,5,132.7,15.0,563.96,1,4.0,No
+ORD-11122,2025-05-11,South,Electronics,Small Business,4,317.04,15.0,1077.95,6,3.0,No
+ORD-11123,2025-11-10,East,Groceries,Corporate,3,9.47,0.0,28.41,6,3.0,No
+ORD-11124,2025-11-01,East,Beauty,Corporate,6,18.94,25.0,85.22,9,4.0,No
+ORD-11125,2025-05-02,West,Groceries,Consumer,2,12.12,25.0,18.19,4,4.0,No
+ORD-11126,2025-01-16,West,Beauty,Consumer,3,24.91,0.0,74.73,6,3.0,No
+ORD-11127,2025-04-28,East,Groceries,Consumer,4,7.05,0.0,28.22,5,,No
+ORD-11128,2025-04-13,East,Furniture,Corporate,4,111.02,15.0,377.47,3,4.0,No
+ORD-11129,2025-06-05,North,Sports,Consumer,2,67.5,5.0,128.25,4,3.0,No
+ORD-11130,2025-07-29,East,Electronics,Consumer,3,190.78,0.0,572.35,4,4.0,No
+ORD-11131,2025-12-28,Central,Electronics,Consumer,7,286.93,5.0,1908.07,5,3.0,No
+ORD-11132,2025-01-23,East,Beauty,Small Business,8,29.47,10.0,212.21,6,3.0,No
+ORD-11133,2025-07-22,Central,Groceries,Small Business,3,17.31,20.0,41.55,2,4.0,No
+ORD-11134,2025-03-04,North,Beauty,Consumer,2,20.93,15.0,35.57,6,,No
+ORD-11135,2025-07-19,West,Electronics,Small Business,6,260.37,20.0,1249.76,3,4.0,No
+ORD-11136,2025-08-21,West,Groceries,Consumer,3,15.0,5.0,42.76,4,3.0,Yes
+ORD-11137,2025-10-23,West,Furniture,Consumer,5,144.57,15.0,614.43,8,4.0,No
+ORD-11138,2025-07-24,West,Clothing,Consumer,6,66.77,0.0,400.59,8,2.0,No
+ORD-11139,2025-03-06,North,Sports,Small Business,3,33.49,5.0,95.44,9,3.0,No
+ORD-11140,2025-11-30,West,Clothing,Consumer,3,33.62,20.0,80.69,5,,No
+ORD-11141,2025-05-28,East,Groceries,Consumer,5,6.61,15.0,28.09,3,3.0,No
+ORD-11142,2025-06-25,East,Sports,Small Business,5,46.38,10.0,208.69,9,3.0,No
+ORD-11143,2025-08-23,North,Sports,Corporate,4,56.84,0.0,227.36,4,3.0,No
+ORD-11144,2025-04-07,North,Electronics,Corporate,4,321.07,0.0,1284.29,3,4.0,No
+ORD-11145,2025-12-27,Central,Electronics,Corporate,4,227.3,10.0,818.29,3,4.0,No
+ORD-11146,2025-01-17,South,Beauty,Corporate,6,22.73,0.0,136.4,9,4.0,Yes
+ORD-11147,2025-02-26,South,Groceries,Consumer,4,6.98,0.0,27.91,3,,No
+ORD-11148,2025-12-28,North,Clothing,Corporate,4,29.42,15.0,100.03,3,5.0,No
+ORD-11149,2025-06-14,East,Electronics,Consumer,7,267.52,0.0,1872.67,4,5.0,No
+ORD-11150,2025-11-23,West,Electronics,Consumer,3,326.73,5.0,931.19,6,4.0,No
+ORD-11151,2025-11-27,Central,Beauty,Small Business,2,24.18,0.0,48.36,5,3.0,No
+ORD-11152,2025-12-28,East,Clothing,Consumer,5,68.75,0.0,343.76,6,3.0,No
+ORD-11153,2025-09-22,South,Groceries,Consumer,3,8.61,,25.82,7,3.0,No
+ORD-11154,2025-09-07,North,Furniture,Consumer,5,157.0,0.0,785.02,6,5.0,No
+ORD-11155,2025-08-13,South,Furniture,Small Business,4,161.71,5.0,614.5,6,3.0,No
+ORD-11156,2025-09-07,East,Groceries,Small Business,1,20.5,5.0,19.47,6,5.0,No
+ORD-11157,2025-04-04,Central,Sports,Consumer,4,62.87,5.0,238.92,5,4.0,No
+ORD-11158,2025-10-25,North,Furniture,Consumer,2,95.92,20.0,153.47,6,3.0,No
+ORD-11159,2025-03-10,South,Clothing,Corporate,2,62.79,5.0,119.29,7,3.0,No
+ORD-11160,2025-06-25,West,Groceries,Corporate,5,22.9,10.0,103.03,5,3.0,No
+ORD-11161,2025-05-17,East,Electronics,Consumer,1,219.91,10.0,197.92,8,4.0,No
+ORD-11162,2025-10-05,East,Clothing,Consumer,2,32.87,,62.46,4,3.0,Yes
+ORD-11163,2025-04-04,East,Groceries,Corporate,2,16.24,0.0,32.48,6,4.0,No
+ORD-11164,2025-03-17,South,Electronics,Consumer,4,477.29,20.0,1527.34,1,5.0,No
+ORD-11165,2025-10-23,East,Groceries,Corporate,3,16.15,5.0,46.03,4,3.0,Yes
+ORD-11166,2025-06-27,South,Electronics,Consumer,5,135.99,10.0,611.96,7,4.0,No
+ORD-11167,2025-09-21,West,Groceries,Small Business,5,15.63,10.0,70.32,5,4.0,No
+ORD-11168,2025-11-17,North,Sports,Corporate,5,69.12,15.0,293.75,5,4.0,No
+ORD-11169,2025-11-01,East,Sports,Corporate,2,42.96,5.0,81.62,5,3.0,No
+ORD-11170,2025-05-26,Central,Groceries,Corporate,1,18.84,5.0,17.9,6,,No
+ORD-11171,2025-03-04,East,Groceries,Consumer,2,13.99,5.0,26.58,2,4.0,No
+ORD-11172,2025-12-17,South,Furniture,Consumer,10,285.2,15.0,2424.2,2,5.0,No
+ORD-11173,2025-04-24,Central,Clothing,Consumer,4,31.04,0.0,124.14,5,,No
+ORD-11174,2025-10-08,South,Electronics,,2,275.95,20.0,441.52,4,4.0,No
+ORD-11175,2025-10-08,West,Groceries,Small Business,4,8.77,,29.83,6,2.0,No
+ORD-11176,2025-06-11,North,Electronics,Consumer,2,261.73,0.0,523.46,3,3.0,No
+ORD-11177,2025-03-01,West,Clothing,Corporate,2,75.47,0.0,150.93,5,3.0,No
+ORD-11178,2025-06-22,North,Clothing,Consumer,2,27.31,20.0,43.7,4,4.0,No
+ORD-11179,2025-02-23,South,Groceries,Consumer,3,7.43,0.0,22.3,6,2.0,No
+ORD-11180,2025-05-09,Central,Clothing,Consumer,1,62.87,0.0,62.87,5,3.0,No
+ORD-11181,2025-05-20,East,Clothing,Small Business,1,44.78,0.0,44.78,4,2.0,No
+ORD-11182,2025-07-09,South,Groceries,Consumer,3,18.08,0.0,54.24,4,5.0,No
+ORD-11183,2025-03-10,North,Beauty,Consumer,7,21.11,5.0,140.37,7,3.0,No
+ORD-11184,2025-11-05,North,Groceries,Corporate,3,12.22,15.0,31.15,5,4.0,Yes
+ORD-11185,2025-01-29,South,Furniture,Consumer,3,229.02,10.0,618.35,5,3.0,No
+ORD-11186,2025-12-26,East,Sports,Consumer,4,64.58,0.0,258.32,4,5.0,No
+ORD-11187,2025-04-25,East,Electronics,Consumer,3,128.33,5.0,365.73,4,5.0,No
+ORD-11188,2025-06-28,Central,Furniture,Consumer,2,483.41,0.0,966.82,4,,No
+ORD-11189,2025-11-16,West,Electronics,Consumer,3,258.51,10.0,697.99,6,3.0,No
+ORD-11190,2025-08-27,Central,Clothing,Consumer,4,28.15,5.0,106.97,3,4.0,No
+ORD-11191,2025-01-21,East,Groceries,Corporate,6,13.39,25.0,60.28,4,4.0,No
+ORD-11192,2025-08-09,East,Clothing,Small Business,3,52.29,15.0,133.35,8,4.0,No
+ORD-11193,2025-07-26,East,Sports,Small Business,2,84.96,10.0,152.93,8,4.0,No
+ORD-11194,2025-12-07,South,Groceries,Consumer,2,16.6,5.0,31.54,5,4.0,No
+ORD-11195,2025-07-25,North,Furniture,Consumer,8,167.02,,1202.54,4,3.0,No
+ORD-11196,2025-12-29,West,Clothing,Consumer,4,24.63,5.0,93.59,4,5.0,No
+ORD-11197,2025-07-13,West,Groceries,Consumer,7,14.1,15.0,83.91,2,4.0,No
+ORD-11198,2025-03-12,South,Clothing,Corporate,2,25.33,20.0,40.52,3,2.0,No
+ORD-11199,2025-07-04,East,Clothing,Consumer,2,68.85,25.0,103.28,6,3.0,No
+ORD-11200,2025-12-01,South,Clothing,Corporate,3,34.82,10.0,94.01,5,3.0,No
+ORD-11201,2025-01-07,East,Groceries,Small Business,2,14.99,10.0,26.98,4,4.0,No
+ORD-11202,2025-05-26,South,Furniture,Consumer,1,143.06,5.0,135.91,2,5.0,No
+ORD-11203,2025-01-18,Central,Sports,Small Business,4,50.51,0.0,202.03,2,4.0,No
+ORD-11204,2025-11-04,East,Furniture,Consumer,3,135.99,10.0,367.19,6,5.0,No
+ORD-11205,2025-07-06,South,Electronics,Small Business,3,308.36,20.0,740.06,3,3.0,No
+ORD-11206,2025-09-19,West,Groceries,Corporate,4,9.65,15.0,32.83,3,2.0,No
+ORD-11207,2025-12-20,Central,Sports,Consumer,6,78.52,20.0,376.89,3,4.0,Yes
+ORD-11208,2025-10-31,West,Groceries,Consumer,2,9.74,5.0,18.51,6,3.0,No
+ORD-11209,2025-05-29,East,Clothing,Consumer,4,41.5,10.0,149.4,3,3.0,No
+ORD-11210,2025-12-08,South,Beauty,Corporate,6,28.35,10.0,153.09,4,3.0,No
+ORD-11211,2025-06-22,West,Clothing,Consumer,4,47.49,5.0,180.46,4,3.0,No
+ORD-11212,2025-12-24,West,Clothing,Small Business,8,32.56,0.0,260.51,5,3.0,No
+ORD-11213,2025-12-25,Central,Groceries,Consumer,4,15.35,10.0,55.27,5,5.0,No
+ORD-11214,2025-03-22,East,Clothing,Small Business,1,40.92,0.0,40.92,3,4.0,No
+ORD-11215,2025-10-12,West,Groceries,Consumer,2,14.52,10.0,26.13,5,3.0,No
+ORD-11216,2025-09-12,South,Beauty,Corporate,4,27.84,20.0,89.09,5,5.0,No
+ORD-11217,2025-10-09,North,Furniture,Small Business,2,221.01,10.0,397.82,4,3.0,No
+ORD-11218,2025-03-03,South,Electronics,Consumer,4,207.82,0.0,831.28,6,2.0,No
+ORD-11219,2025-07-04,North,Clothing,Consumer,3,34.13,5.0,97.28,7,2.0,No
+ORD-11220,2025-02-25,East,Clothing,Corporate,4,52.25,10.0,188.1,7,3.0,No
+ORD-11221,2025-11-24,South,Groceries,Corporate,1,10.1,10.0,9.09,3,2.0,Yes
+ORD-11222,2025-11-15,West,Beauty,Small Business,2,46.65,,93.31,9,2.0,No
+ORD-11223,2025-08-01,East,Groceries,Consumer,2,12.29,5.0,23.35,6,3.0,No
+ORD-11224,2025-02-17,North,Beauty,Small Business,2,17.31,15.0,29.43,4,5.0,No
+ORD-11225,2025-08-28,West,Furniture,Small Business,2,146.65,0.0,293.3,3,5.0,Yes
+ORD-11226,2025-06-10,North,Furniture,Corporate,6,126.87,10.0,685.12,4,4.0,No
+ORD-11227,2025-10-15,North,Furniture,Consumer,6,262.04,20.0,1257.77,4,4.0,No
+ORD-11228,2025-02-06,Central,Groceries,Consumer,3,15.73,15.0,40.11,2,4.0,No
+ORD-11229,2025-05-29,North,Electronics,Small Business,3,234.93,20.0,563.82,5,,No
+ORD-11230,2025-05-12,South,Electronics,Corporate,82,265.65,15.0,18515.53,7,5.0,No
+ORD-11231,2025-12-14,East,Clothing,Corporate,2,43.64,,82.92,5,4.0,No
+ORD-11232,2025-04-19,South,Furniture,Small Business,2,243.25,5.0,462.18,7,3.0,No
+ORD-11233,2025-12-27,South,Groceries,Consumer,5,14.39,0.0,71.97,5,3.0,No
+ORD-11234,2025-12-03,West,Sports,,4,76.66,0.0,306.63,4,,Yes
+ORD-11235,2025-08-03,East,Electronics,Corporate,4,224.41,10.0,807.89,3,4.0,No
+ORD-11236,2025-03-05,East,Groceries,Small Business,4,9.62,0.0,38.48,5,3.0,No
+ORD-11237,2025-03-23,Central,Electronics,Corporate,11,302.9,0.0,3331.93,4,4.0,No
+ORD-11238,2025-01-07,North,Furniture,Consumer,4,309.8,,1053.32,4,4.0,No
+ORD-11239,2025-10-10,East,Furniture,Consumer,8,265.09,0.0,2120.7,3,4.0,No
+ORD-11240,2025-09-22,South,Groceries,Small Business,4,20.87,0.0,83.49,1,,No
+ORD-11241,2025-04-28,North,Groceries,Corporate,2,12.7,10.0,22.86,9,,No
+ORD-11242,2025-09-24,Central,Groceries,Consumer,2,8.55,0.0,17.09,7,3.0,No
+ORD-11243,2025-07-30,West,Sports,Small Business,3,44.08,5.0,125.62,8,3.0,No
+ORD-11244,2025-10-26,North,Electronics,Consumer,3,388.96,0.0,1166.89,4,3.0,No
+ORD-11245,2025-02-01,South,Groceries,Consumer,7,6.25,15.0,37.21,2,5.0,No
+ORD-11246,2025-03-14,South,Groceries,Small Business,5,20.32,10.0,91.44,9,3.0,No
+ORD-11247,2025-10-22,West,Electronics,Corporate,5,182.17,10.0,819.79,5,2.0,No
+ORD-11248,2025-05-15,South,Clothing,Small Business,3,88.22,0.0,264.66,6,2.0,No
+ORD-11249,2025-12-17,Central,Electronics,Small Business,4,234.14,10.0,842.91,5,5.0,No
+ORD-11250,2025-11-18,North,Electronics,Consumer,3,309.06,0.0,927.18,2,4.0,No
+ORD-11251,2025-02-04,South,Furniture,Consumer,4,414.77,10.0,1493.17,6,3.0,No
+ORD-11252,2025-05-28,Central,Furniture,Small Business,4,160.36,0.0,641.43,5,5.0,No
+ORD-11253,2025-09-25,Central,Beauty,Consumer,5,24.8,0.0,123.99,8,3.0,No
+ORD-11254,2025-02-19,South,Sports,Corporate,3,47.05,0.0,141.14,9,,No
+ORD-11255,2025-11-11,East,Groceries,Consumer,4,8.45,0.0,33.8,7,,No
+ORD-11256,2025-02-05,Central,Groceries,Consumer,4,10.69,0.0,42.77,9,3.0,No
+ORD-11257,2025-02-09,West,Beauty,Consumer,3,23.06,0.0,69.17,9,5.0,No
+ORD-11258,2025-07-18,East,Clothing,Corporate,1,29.05,20.0,23.24,8,4.0,No
+ORD-11259,2025-04-01,West,Clothing,Corporate,7,41.8,10.0,263.37,4,3.0,No
+ORD-11260,2025-08-22,Central,Groceries,,5,14.05,10.0,63.21,5,3.0,No
+ORD-11261,2025-05-24,East,Beauty,,4,20.46,0.0,81.85,2,4.0,No
+ORD-11262,2025-04-09,North,Groceries,Consumer,4,11.34,0.0,45.35,4,2.0,No
+ORD-11263,2025-11-02,East,Electronics,Corporate,3,392.65,25.0,883.46,5,4.0,No
+ORD-11264,2025-02-28,West,Groceries,Consumer,3,7.3,0.0,21.9,4,4.0,No
+ORD-11265,2025-06-30,East,Furniture,Corporate,5,353.91,15.0,1504.11,5,5.0,No
+ORD-11266,2025-03-03,South,Furniture,Corporate,3,142.17,10.0,383.87,7,4.0,No
+ORD-11267,2025-02-19,West,Groceries,Consumer,8,12.87,5.0,97.84,6,5.0,No
+ORD-11268,2025-03-16,East,Groceries,Corporate,3,18.78,10.0,50.7,3,5.0,No
+ORD-11269,2025-04-04,Central,Electronics,Small Business,4,417.86,15.0,1420.74,7,4.0,No
+ORD-11270,2025-05-31,South,Furniture,Consumer,2,212.17,20.0,339.47,5,4.0,No
+ORD-11271,2025-06-20,West,Groceries,Consumer,4,9.41,5.0,35.76,2,4.0,No
+ORD-11272,2025-02-20,East,Electronics,Consumer,4,182.48,0.0,729.93,7,,No
+ORD-11273,2025-01-15,North,Sports,Corporate,4,49.06,10.0,176.63,3,4.0,No
+ORD-11274,2025-02-04,East,Clothing,Small Business,3,87.17,0.0,261.52,5,4.0,No
+ORD-11275,2025-08-19,North,Groceries,Corporate,6,10.49,5.0,59.82,7,3.0,No
+ORD-11276,2025-12-22,West,Electronics,Small Business,7,268.78,10.0,1693.34,2,3.0,No
+ORD-11277,2025-01-10,West,Beauty,Corporate,4,19.43,0.0,77.73,8,4.0,No
+ORD-11278,2025-01-13,North,Beauty,Consumer,3,18.68,15.0,47.64,6,,No
+ORD-11279,2025-10-13,East,Electronics,Consumer,3,242.23,25.0,545.01,4,5.0,No
+ORD-11280,2025-09-22,Central,Groceries,Corporate,4,10.71,0.0,42.84,8,4.0,No
+ORD-11281,2025-09-25,South,Groceries,Corporate,4,10.99,0.0,43.95,3,5.0,No
+ORD-11282,2025-03-05,Central,Electronics,Consumer,4,143.02,5.0,543.47,6,4.0,No
+ORD-11283,2025-11-12,North,Groceries,Consumer,5,11.7,0.0,58.48,7,3.0,No
+ORD-11284,2025-08-16,North,Sports,Consumer,5,103.19,0.0,515.96,4,3.0,No
+ORD-11285,2025-02-27,East,Clothing,Consumer,6,33.38,20.0,160.25,4,3.0,No
+ORD-11286,2025-02-12,South,Beauty,Corporate,4,38.33,0.0,153.33,6,2.0,No
+ORD-11287,2025-08-08,Central,Electronics,Corporate,4,71.39,0.0,285.55,3,5.0,No
+ORD-11288,2025-10-12,West,Beauty,Small Business,7,21.14,5.0,140.61,5,4.0,No
+ORD-11289,2025-10-13,West,Beauty,Consumer,4,14.35,0.0,57.39,6,4.0,No
+ORD-11290,2025-08-03,West,Electronics,Small Business,3,369.93,15.0,943.32,2,,No
+ORD-11291,2025-07-08,West,Clothing,Consumer,5,61.21,15.0,260.12,4,4.0,No
+ORD-11292,2025-09-11,West,Groceries,Consumer,7,8.36,5.0,55.56,6,3.0,No
+ORD-11293,2025-02-17,West,Sports,Small Business,5,66.39,0.0,331.96,4,5.0,No
+ORD-11294,2025-05-14,West,Electronics,Small Business,7,365.49,20.0,2046.74,2,3.0,No
+ORD-11295,2025-02-06,East,Clothing,Small Business,5,72.36,10.0,325.63,4,5.0,No
+ORD-11296,2025-11-03,South,Groceries,Consumer,4,10.41,5.0,39.56,6,4.0,No
+ORD-11297,2025-08-10,East,Clothing,Consumer,2,20.77,5.0,39.47,6,3.0,No
+ORD-11298,2025-10-11,East,Groceries,Corporate,6,8.76,5.0,49.94,5,5.0,No
+ORD-11299,2025-07-01,South,Groceries,Small Business,3,15.69,0.0,47.07,3,5.0,No
+ORD-11300,2025-12-06,South,Beauty,Consumer,8,58.37,5.0,443.62,8,3.0,No
+ORD-11301,2025-12-06,South,Electronics,Consumer,1,235.48,10.0,211.93,6,2.0,No
+ORD-11302,2025-08-13,North,Beauty,Consumer,6,22.64,5.0,129.06,4,4.0,No
+ORD-11303,2025-11-01,West,Groceries,Consumer,65,27.79,10.0,1625.73,6,3.0,No
+ORD-11304,2025-08-29,West,Beauty,Consumer,4,32.27,10.0,116.18,4,4.0,Yes
+ORD-11305,2025-09-22,South,Electronics,Corporate,7,156.17,15.0,929.19,10,3.0,No
+ORD-11306,2025-04-01,Central,Groceries,Consumer,6,11.51,10.0,62.16,4,4.0,No
+ORD-11307,2025-12-25,Central,Sports,Corporate,4,85.14,0.0,340.57,5,3.0,No
+ORD-11308,2025-03-09,West,Groceries,Corporate,2,11.71,10.0,21.07,2,3.0,Yes
+ORD-11309,2025-09-11,North,Electronics,Consumer,3,316.92,15.0,808.16,6,2.0,No
+ORD-11310,2025-08-10,South,Clothing,Consumer,3,25.66,0.0,76.98,3,4.0,No
+ORD-11311,2025-02-03,East,Electronics,Small Business,4,145.28,20.0,464.9,5,1.0,No
+ORD-11312,2025-10-10,West,Electronics,Corporate,5,185.57,20.0,742.29,6,4.0,No
+ORD-11313,2025-01-29,East,Groceries,Small Business,7,10.87,10.0,68.49,4,4.0,No
+ORD-11314,2025-07-05,West,Beauty,Consumer,7,31.47,0.0,220.3,8,3.0,No
+ORD-11315,2025-10-25,West,Groceries,Corporate,3,15.0,10.0,40.49,8,4.0,No
+ORD-11316,2025-02-15,Central,Electronics,Small Business,2,568.94,5.0,1080.99,6,3.0,No
+ORD-11317,2025-05-12,East,Furniture,Consumer,5,139.0,0.0,694.99,5,4.0,No
+ORD-11318,2025-07-05,Central,Clothing,Consumer,5,40.32,0.0,201.58,6,2.0,No
+ORD-11319,2025-12-04,West,Electronics,Small Business,6,187.15,10.0,1010.61,4,2.0,No
+ORD-11320,2025-05-20,South,Sports,Consumer,3,87.54,10.0,236.37,8,3.0,No
+ORD-11321,2025-02-13,West,Electronics,Consumer,6,356.92,5.0,2034.46,2,4.0,Yes
+ORD-11322,2025-02-17,North,Electronics,,2,205.19,5.0,389.87,7,4.0,No
+ORD-11323,2025-03-14,North,Groceries,Consumer,7,24.73,5.0,164.44,5,3.0,No
+ORD-11324,2025-11-13,Central,Electronics,Corporate,3,187.26,5.0,533.71,5,4.0,No
+ORD-11325,2025-10-10,East,Clothing,Corporate,3,64.53,5.0,183.91,4,,No
+ORD-11326,2025-06-02,East,Clothing,Corporate,2,74.87,0.0,149.74,4,4.0,No
+ORD-11327,2025-11-06,Central,Electronics,Consumer,4,149.02,5.0,566.28,4,4.0,No
+ORD-11328,2025-12-02,South,Groceries,Consumer,2,14.69,0.0,29.38,5,,No
+ORD-11329,2025-11-13,South,Clothing,Small Business,3,17.34,15.0,44.21,5,2.0,No
+ORD-11330,2025-01-02,North,Groceries,Small Business,4,16.01,5.0,60.85,5,3.0,No
+ORD-11331,2025-02-06,East,Furniture,Consumer,2,122.41,15.0,208.1,3,5.0,No
+ORD-11332,2025-09-22,North,Clothing,Consumer,3,54.89,5.0,156.43,5,3.0,No
+ORD-11333,2025-05-20,North,Groceries,Consumer,9,15.63,0.0,140.66,1,5.0,No
+ORD-11334,2025-02-27,West,Electronics,Consumer,9,355.2,0.0,3196.82,5,3.0,No
+ORD-11335,2025-08-24,South,Electronics,Small Business,3,327.74,0.0,983.21,8,2.0,No
+ORD-11336,2025-05-10,East,Furniture,Small Business,7,183.56,5.0,1220.65,5,4.0,No
+ORD-11337,2025-12-02,North,Electronics,Consumer,6,210.08,15.0,1071.39,7,3.0,No
+ORD-11338,2025-07-30,East,Electronics,Small Business,3,233.83,0.0,701.5,5,3.0,No
+ORD-11339,2025-03-29,East,Beauty,Small Business,6,18.95,5.0,107.99,4,1.0,Yes
+ORD-11340,2025-12-08,East,Clothing,Corporate,4,41.79,0.0,167.15,7,4.0,No
+ORD-11341,2025-08-08,South,Clothing,Small Business,5,40.65,5.0,193.07,4,4.0,No
+ORD-11342,2025-04-19,South,Furniture,Consumer,2,136.6,10.0,245.89,8,,No
+ORD-11343,2025-02-22,North,Electronics,Small Business,3,130.48,0.0,391.44,2,5.0,No
+ORD-11344,2025-07-22,North,Groceries,Consumer,3,7.68,0.0,23.03,3,3.0,No
+ORD-11345,2025-09-30,East,Groceries,Consumer,4,3.98,10.0,14.34,3,3.0,No
+ORD-11346,2025-11-02,North,Beauty,Corporate,3,25.14,5.0,71.65,3,3.0,No
+ORD-11347,2025-02-16,South,Electronics,Consumer,2,272.28,5.0,517.32,8,,No
+ORD-11348,2025-06-07,North,Electronics,Corporate,1,93.85,10.0,84.47,3,,No
+ORD-11349,2025-12-31,West,Groceries,Consumer,2,13.04,0.0,26.07,5,5.0,No
+ORD-11350,2025-08-30,East,Clothing,Consumer,4,43.11,15.0,146.58,8,4.0,No
+ORD-11351,2025-02-03,East,Electronics,Corporate,6,158.98,15.0,810.79,6,3.0,No
+ORD-11352,2025-12-01,East,Furniture,Consumer,5,154.78,5.0,735.23,4,5.0,Yes
+ORD-11353,2025-09-08,South,Electronics,Consumer,2,346.69,5.0,658.7,7,3.0,Yes
+ORD-11354,2025-06-17,South,Sports,Consumer,3,42.66,5.0,121.6,5,2.0,No
+ORD-11355,2025-10-11,South,Sports,Small Business,5,61.68,15.0,262.14,4,3.0,No
+ORD-11356,2025-08-25,East,Groceries,Corporate,3,13.55,0.0,40.64,4,4.0,No
+ORD-11357,2025-04-05,South,Clothing,Consumer,5,33.75,10.0,151.86,5,3.0,No
+ORD-11358,2025-10-18,North,Groceries,Corporate,4,17.08,0.0,68.31,6,3.0,No
+ORD-11359,2025-04-04,Central,Groceries,Corporate,4,13.82,15.0,46.99,7,4.0,No
+ORD-11360,2025-03-25,West,Groceries,Consumer,6,10.99,25.0,49.44,4,4.0,No
+ORD-11361,2025-08-06,North,Clothing,Consumer,3,102.9,0.0,308.71,6,4.0,No
+ORD-11362,2025-01-07,Central,Beauty,Corporate,4,39.91,5.0,151.65,5,3.0,No
+ORD-11363,2025-08-19,North,Furniture,Consumer,4,99.76,5.0,379.1,5,,No
+ORD-11364,2025-07-20,North,Groceries,Small Business,4,10.47,10.0,37.7,8,2.0,No
+ORD-11365,2025-09-20,North,Sports,Consumer,4,142.26,0.0,569.05,4,4.0,No
+ORD-11366,2025-02-28,Central,Sports,,4,42.55,,153.16,3,3.0,No
+ORD-11367,2025-07-31,South,Beauty,Consumer,3,28.66,10.0,77.38,5,,No
+ORD-11368,2025-06-11,West,Clothing,Corporate,4,69.24,20.0,221.55,8,1.0,No
+ORD-11369,2025-03-05,East,Groceries,Small Business,1,15.08,10.0,13.57,3,2.0,No
+ORD-11370,2025-06-14,East,Furniture,Consumer,4,237.87,10.0,856.33,5,4.0,No
+ORD-11371,2025-12-04,South,Groceries,Consumer,3,15.53,0.0,46.6,1,3.0,No
+ORD-11372,2025-10-28,North,Electronics,Corporate,4,242.14,0.0,968.57,3,,No
+ORD-11373,2025-03-02,West,Clothing,Consumer,1,34.1,10.0,30.69,8,2.0,No
+ORD-11374,2025-11-06,South,Beauty,Consumer,8,32.6,10.0,234.73,8,2.0,No
+ORD-11375,2025-07-26,East,Sports,Corporate,3,52.11,15.0,132.88,9,3.0,No
+ORD-11376,2025-01-18,North,Clothing,Consumer,5,38.02,,180.61,4,4.0,Yes
+ORD-11377,2025-12-02,West,Electronics,Consumer,5,403.23,0.0,2016.14,8,3.0,No
+ORD-11378,2025-07-11,West,Clothing,Consumer,3,39.38,0.0,118.15,3,3.0,No
+ORD-11379,2025-11-30,East,Electronics,Consumer,4,436.06,5.0,1657.04,5,,No
+ORD-11380,2025-02-05,East,Electronics,Small Business,2,262.57,0.0,525.13,6,,No
+ORD-11381,2025-03-03,South,Beauty,Consumer,3,26.48,0.0,79.45,8,3.0,No
+ORD-11382,2025-11-26,South,Clothing,Consumer,3,23.82,0.0,71.46,2,,No
+ORD-11383,2025-03-29,North,Electronics,Corporate,3,504.01,5.0,1436.42,3,3.0,Yes
+ORD-11384,2025-07-20,West,Groceries,Small Business,5,11.97,0.0,59.87,5,4.0,No
+ORD-11385,2025-08-08,North,Electronics,Consumer,4,108.4,25.0,325.21,6,1.0,No
+ORD-11386,2025-12-13,North,Clothing,Corporate,4,63.58,15.0,216.19,5,5.0,No
+ORD-11387,2025-05-04,North,Furniture,Corporate,5,176.87,0.0,884.33,5,3.0,No
+ORD-11388,2025-10-03,North,Electronics,Consumer,2,173.24,15.0,294.51,3,3.0,No
+ORD-11389,2025-09-24,East,Clothing,Consumer,5,62.34,5.0,296.11,9,2.0,No
+ORD-11390,2025-09-13,West,Groceries,Corporate,3,4.92,20.0,11.8,3,4.0,No
+ORD-11391,2025-07-10,East,Clothing,Consumer,5,35.05,10.0,157.72,6,3.0,No
+ORD-11392,2025-01-26,South,Sports,Consumer,5,54.03,0.0,270.15,3,4.0,No
+ORD-11393,2025-04-08,East,Beauty,Corporate,2,37.73,0.0,75.46,3,3.0,No
+ORD-11394,2025-07-24,East,Sports,Consumer,4,131.42,25.0,394.27,6,4.0,No
+ORD-11395,2025-05-31,West,Beauty,Consumer,2,25.7,20.0,41.12,3,3.0,No
+ORD-11396,2025-03-09,West,Beauty,Consumer,3,32.89,5.0,93.74,5,3.0,No
+ORD-11397,2025-09-10,West,Sports,Small Business,3,157.01,10.0,423.91,6,3.0,No
+ORD-11398,2025-06-18,West,Furniture,Corporate,3,180.3,5.0,513.85,4,4.0,No
+ORD-11399,2025-10-14,Central,Electronics,Consumer,3,282.73,15.0,720.97,5,3.0,No
+ORD-11400,2025-07-20,East,Groceries,Consumer,4,7.78,,29.57,5,3.0,No
+ORD-11401,2025-05-15,East,Sports,Small Business,4,119.11,0.0,476.44,4,3.0,No
+ORD-11402,2025-02-09,West,Sports,Corporate,3,46.75,0.0,140.25,3,5.0,No
+ORD-11403,2025-02-08,North,Groceries,Corporate,2,13.18,10.0,23.73,6,4.0,No
+ORD-11404,2025-07-05,South,Sports,Consumer,2,65.26,5.0,124.0,6,,No
+ORD-11405,2025-05-09,Central,Groceries,Consumer,3,12.36,,31.53,2,4.0,No
+ORD-11406,2025-09-20,East,Groceries,Consumer,3,10.31,20.0,24.74,3,5.0,No
+ORD-11407,2025-08-19,North,Electronics,Small Business,3,261.15,0.0,783.46,9,3.0,No
+ORD-11408,2025-04-14,South,Clothing,Small Business,2,83.24,20.0,133.18,6,3.0,No
+ORD-11409,2025-10-05,North,Electronics,Consumer,6,533.24,10.0,2879.48,7,3.0,No
+ORD-11410,2025-07-26,South,Electronics,Corporate,5,225.73,10.0,1015.78,4,4.0,No
+ORD-11411,2025-11-18,East,Groceries,Small Business,3,10.25,0.0,30.76,6,1.0,No
+ORD-11412,2025-12-14,East,Electronics,Small Business,3,180.83,5.0,515.37,3,5.0,No
+ORD-11413,2025-12-18,East,Beauty,Consumer,6,71.69,25.0,322.61,8,2.0,No
+ORD-11414,2025-02-16,North,Clothing,Consumer,6,47.08,10.0,254.21,4,3.0,No
+ORD-11415,2025-07-13,East,Groceries,Small Business,7,17.73,10.0,111.69,7,2.0,No
+ORD-11416,2025-01-11,North,Electronics,Consumer,4,306.27,0.0,1225.08,4,3.0,No
+ORD-11417,2025-11-18,South,Sports,Consumer,3,129.97,0.0,389.9,3,4.0,No
+ORD-11418,2025-09-14,East,Clothing,Consumer,6,41.26,5.0,235.2,8,4.0,No
+ORD-11419,2025-04-06,North,Groceries,Consumer,6,8.15,10.0,43.98,4,5.0,No
+ORD-11420,2025-08-10,Central,Groceries,Consumer,4,23.01,15.0,78.22,4,,No
+ORD-11421,2025-07-24,East,Clothing,Corporate,5,61.73,5.0,293.23,5,4.0,No
+ORD-11422,2025-07-18,North,Groceries,Small Business,5,14.08,0.0,70.39,9,3.0,No
+ORD-11423,2025-07-16,South,Groceries,Consumer,2,20.54,0.0,41.07,5,4.0,No
+ORD-11424,2025-12-26,North,Sports,Small Business,2,71.81,0.0,143.62,9,,No
+ORD-11425,2025-10-08,North,Furniture,Small Business,6,311.82,0.0,1870.91,5,3.0,No
+ORD-11426,2025-05-27,Central,Beauty,Corporate,1,30.52,0.0,30.52,5,3.0,No
+ORD-11427,2025-10-10,West,Clothing,Corporate,7,61.7,15.0,367.14,2,4.0,No
+ORD-11428,2025-02-21,West,Furniture,Small Business,3,216.41,5.0,616.78,7,1.0,No
+ORD-11429,2025-04-15,East,Furniture,Corporate,5,160.63,15.0,682.68,3,5.0,No
+ORD-11430,2025-02-12,Central,Clothing,Consumer,4,41.88,20.0,134.01,5,4.0,No
+ORD-11431,2025-11-20,Central,Furniture,Small Business,4,156.88,0.0,627.5,2,5.0,No
+ORD-11432,2025-01-09,North,Sports,Consumer,3,65.84,10.0,177.77,4,2.0,No
+ORD-11433,2025-11-22,North,Groceries,Small Business,5,10.23,0.0,51.15,4,3.0,No
+ORD-11434,2025-10-31,South,Beauty,Consumer,3,32.61,0.0,97.84,2,,No
+ORD-11435,2025-12-13,South,Electronics,Consumer,8,276.25,0.0,2210.0,5,3.0,No
+ORD-11436,2025-10-07,East,Groceries,Corporate,6,12.89,0.0,77.36,3,4.0,No
+ORD-11437,2025-06-17,South,Electronics,Corporate,4,259.44,10.0,933.98,3,5.0,No
+ORD-11438,2025-10-24,West,Clothing,Consumer,7,36.91,10.0,232.54,4,4.0,No
+ORD-11439,2025-12-27,North,Clothing,Small Business,8,40.77,10.0,293.55,4,3.0,No
+ORD-11440,2025-11-22,West,Groceries,Consumer,1,6.69,10.0,6.02,8,5.0,No
+ORD-11441,2025-10-14,South,Groceries,Consumer,1,11.51,15.0,9.78,7,3.0,No
+ORD-11442,2025-10-07,North,Furniture,Corporate,5,127.48,15.0,541.77,3,3.0,No
+ORD-11443,2025-08-27,West,Electronics,Consumer,2,248.54,20.0,397.66,3,2.0,No
+ORD-11444,2025-11-22,East,Clothing,Consumer,3,35.04,10.0,94.62,6,3.0,No
+ORD-11445,2025-06-07,West,Furniture,Consumer,7,87.81,5.0,583.96,2,5.0,No
+ORD-11446,2025-07-02,Central,Groceries,Consumer,3,26.4,5.0,75.23,7,2.0,No
+ORD-11447,2025-11-04,North,Clothing,Small Business,1,41.5,5.0,39.42,8,,No
+ORD-11448,2025-04-06,South,Sports,Consumer,5,99.57,0.0,497.83,6,3.0,Yes
+ORD-11449,2025-10-06,North,Beauty,Corporate,1,23.28,15.0,19.79,9,1.0,No
+ORD-11450,2025-02-10,North,Clothing,Corporate,5,81.53,20.0,326.13,4,4.0,No
+ORD-11451,2025-08-02,Central,Beauty,Consumer,4,18.71,25.0,56.13,2,4.0,No
+ORD-11452,2025-01-13,West,Groceries,Small Business,2,12.76,,25.53,3,3.0,No
+ORD-11453,2025-12-30,South,Electronics,Consumer,3,163.75,0.0,491.25,6,4.0,No
+ORD-11454,2025-11-04,West,Sports,Consumer,7,149.1,0.0,1043.69,9,4.0,No
+ORD-11455,2025-04-02,Central,Clothing,Corporate,4,41.24,15.0,140.22,3,3.0,No
+ORD-11456,2025-02-24,South,Groceries,Corporate,4,16.04,10.0,57.73,4,4.0,No
+ORD-11457,2025-08-23,North,Groceries,Consumer,1,14.05,15.0,11.94,2,4.0,Yes
+ORD-11458,2025-11-26,West,Sports,Small Business,3,59.47,20.0,142.72,5,3.0,No
+ORD-11459,2025-04-28,West,Groceries,Small Business,2,14.38,0.0,28.77,7,3.0,No
+ORD-11460,2025-12-17,North,Sports,Consumer,3,96.55,5.0,275.17,3,,No
+ORD-11461,2025-06-17,East,Clothing,Corporate,6,56.86,15.0,289.97,6,4.0,No
+ORD-11462,2025-06-11,North,Beauty,Consumer,6,29.64,0.0,177.83,6,4.0,No
+ORD-11463,2025-05-04,East,Groceries,Consumer,5,14.39,5.0,68.36,1,2.0,No
+ORD-11464,2025-04-09,East,Groceries,,5,23.46,5.0,111.42,5,2.0,No
+ORD-11465,2025-05-03,South,Sports,Consumer,2,51.86,10.0,93.34,4,2.0,No
+ORD-11466,2025-03-05,West,Electronics,Corporate,4,125.43,25.0,376.3,4,,No
+ORD-11467,2025-05-18,East,Clothing,Consumer,5,30.66,0.0,153.29,2,3.0,No
+ORD-11468,2025-04-16,West,Sports,Consumer,6,41.96,5.0,239.14,2,4.0,No
+ORD-11469,2025-01-21,East,Beauty,Consumer,3,20.57,25.0,46.28,3,4.0,No
+ORD-11470,2025-05-13,East,Groceries,Consumer,2,8.92,0.0,17.84,5,3.0,No
+ORD-11471,2025-01-15,South,Clothing,Corporate,3,44.63,10.0,120.5,7,3.0,No
+ORD-11472,2025-03-08,North,Furniture,Consumer,2,196.28,20.0,314.05,3,5.0,No
+ORD-11473,2025-09-22,West,Clothing,Consumer,2,48.89,0.0,97.77,1,3.0,No
+ORD-11474,2025-01-10,East,Clothing,Consumer,4,34.85,0.0,139.4,11,3.0,No
+ORD-11475,2025-04-24,South,Sports,Consumer,2,84.96,0.0,169.92,4,4.0,No
+ORD-11476,2025-09-07,Central,Groceries,Corporate,7,14.47,0.0,101.28,4,3.0,No
+ORD-11477,2025-01-08,West,Clothing,Consumer,3,78.27,,223.06,7,4.0,No
+ORD-11478,2025-09-27,North,Clothing,Corporate,3,60.52,0.0,181.57,11,3.0,No
+ORD-11479,2025-01-30,North,Beauty,Corporate,5,24.78,5.0,117.69,7,3.0,No
+ORD-11480,2025-01-21,East,Groceries,Consumer,4,18.95,15.0,64.43,6,1.0,No
+ORD-11481,2025-03-13,North,Furniture,Consumer,2,198.09,0.0,396.18,8,4.0,No
+ORD-11482,2025-11-11,Central,Clothing,Consumer,3,59.5,5.0,169.57,4,4.0,No
+ORD-11483,2025-01-18,East,Clothing,Consumer,4,57.91,0.0,231.62,2,4.0,No
+ORD-11484,2025-02-06,North,Furniture,Consumer,2,172.34,10.0,310.2,6,1.0,No
+ORD-11485,2025-12-12,East,Groceries,Small Business,4,12.44,0.0,49.77,2,4.0,No
+ORD-11486,2025-08-11,South,Furniture,Consumer,6,171.91,0.0,1031.46,4,2.0,No
+ORD-11487,2025-07-27,East,Clothing,Consumer,5,33.39,25.0,125.2,2,5.0,No
+ORD-11488,2025-01-15,South,Clothing,Small Business,4,21.24,15.0,72.23,6,2.0,No
+ORD-11489,2025-05-24,West,Clothing,Small Business,5,35.3,10.0,158.84,6,5.0,No
+ORD-11490,2025-07-30,West,Groceries,Consumer,3,12.87,10.0,34.74,3,5.0,No
+ORD-11491,2025-07-14,Central,Groceries,Consumer,4,17.55,5.0,66.68,2,4.0,No
+ORD-11492,2025-07-10,North,Electronics,Consumer,4,317.11,0.0,1268.42,5,5.0,No
+ORD-11493,2025-02-11,South,Furniture,Small Business,4,163.22,5.0,620.23,6,2.0,No
+ORD-11494,2025-12-27,West,Groceries,Corporate,3,9.46,15.0,24.12,4,3.0,No
+ORD-11495,2025-09-14,South,Beauty,Consumer,3,26.29,25.0,59.16,5,4.0,No
+ORD-11496,2025-03-30,South,Electronics,Consumer,6,170.61,10.0,921.3,7,,No
+ORD-11497,2025-12-20,Central,Electronics,Consumer,5,114.47,5.0,543.72,2,3.0,No
+ORD-11498,2025-04-21,West,Beauty,Corporate,8,16.3,10.0,117.39,7,3.0,No
+ORD-11499,2025-02-17,Central,Electronics,Consumer,5,388.31,10.0,1747.39,7,2.0,No
+ORD-10656,2025-07-13,South,Groceries,Consumer,4,12.9,15.0,43.87,3,3.0,No
+ORD-10931,2025-04-14,South,Clothing,Consumer,6,54.72,5.0,311.93,2,5.0,No
+ORD-10822,2025-06-16,South,Sports,Consumer,5,109.68,10.0,493.55,8,2.0,No
+ORD-10669,2025-02-11,North,Clothing,Consumer,5,46.27,0.0,231.36,6,2.0,No
+ORD-11187,2025-04-25,East,Electronics,Consumer,3,128.33,5.0,365.73,4,5.0,No
+ORD-11382,2025-11-26,South,Clothing,Consumer,3,23.82,0.0,71.46,2,,No
+ORD-10344,2025-09-11,Central,Clothing,Corporate,2,44.88,0.0,89.76,7,3.0,No
+ORD-10432,2025-05-27,North,Furniture,Corporate,4,133.4,0.0,533.59,3,2.0,No
